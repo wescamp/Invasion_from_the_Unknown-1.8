@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-01-25 16:24+0100\n"
-"PO-Revision-Date: 2010-01-05 15:13+0100\n"
+"PO-Revision-Date: 2010-04-07 10:51+0100\n"
 "Last-Translator: Kelemen Zoltán <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -29,15 +29,13 @@ msgid "Version:"
 msgstr "Verzió:"
 
 #: Invasion_from_the_Unknown/_main.cfg:63
-#, fuzzy
 msgid "(requires Battle for Wesnoth 1.7.7 or later)"
-msgstr "(Harc Wesnothért 1.6 RC3 és későbbi verziókhoz)"
+msgstr "(Harc Wesnothért 1.7.7 és későbbi verziókhoz)"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:69
-#, fuzzy
 msgid "Episode I: Seeking the Light"
-msgstr "A Világosság keresése"
+msgstr "I. rész: A Világosság  keresése"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:69
@@ -113,9 +111,8 @@ msgstr ""
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:78
-#, fuzzy
 msgid "Episode II: Armageddon"
-msgstr "II. rész "
+msgstr "II. rész: Végső leszámolás"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:81
@@ -947,7 +944,6 @@ msgstr "Ez fáj... *uhh*"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:328
-#, fuzzy
 msgid "*Argh* I'm... defeated..."
 msgstr " *Argh* Én... meghalok..."
 
@@ -1225,11 +1221,10 @@ msgstr ""
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:9
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:23
 msgid "Warning"
-msgstr ""
+msgstr "Figyelmeztetés"
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:14
-#, fuzzy
 msgid ""
 "Some scenarios of this campaign work in a dramatically different way to that "
 "of Wesnoth's common gameplay. Therefore, it is especially important to pay "
@@ -1246,9 +1241,10 @@ msgstr ""
 "feladatait, s ne törekedj az összes ellenség kiirtására, különösen a fedett "
 "területeken, vagy ahol az ellenséges egységek folyamatosan újrateremtődnek.\n"
 "\n"
-" Bár nem feltétlenül szükséges, de erősen javallott az 'Alászállás a "
-"sötétségbe' illetve az 'A tűző napok alatt' című hadjáratok vagy legalább a "
-"történetük ismerete, s néhány eseményről, személyről való előzetes tudás."
+" Bár nem feltétlenül szükséges, de erősen javallott az <i>Alászállás a "
+"sötétségbe</i> illetve az<i>A tűző napok alatt</i> című hadjáratok vagy "
+"legalább a történetük ismerete, s néhány eseményről, személyről való "
+"előzetes tudás."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:26
@@ -1503,7 +1499,6 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:117
-#, fuzzy
 msgid ""
 "We followed the river along the southern side. As we traveled we could see "
 "small tributaries coming from the far North feeding into the river, "
@@ -2227,7 +2222,6 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:407
-#, fuzzy
 msgid ""
 "It has been recorded by our historians that elves seldom participated in "
 "full-scale war; the few occasions being defense against an orcish invasion, "
@@ -2238,8 +2232,8 @@ msgstr ""
 "A krónikáinkban kevés totális háborúról van említés, amiben tündék vettek "
 "részt. Ezek: az ork invázió elleni védekezés; az őseink közti polgárháború; "
 "egy nagyhatalmú holtidéző elleni küzdelem, és végül a Wesmere tündéinek "
-"végzetét okozó, Yanqui-hívők elleni háború - ahogy Elynia és Anlindë "
-"elejtett szavaiból kikövetkeztettem."
+"végzetét okozó, Zhangor-féle háború - ahogy Elynia és Anlindë elejtett "
+"szavaiból kikövetkeztettem."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:410
@@ -3200,7 +3194,6 @@ msgstr "Túlléped a körök számát"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:328
-#, fuzzy
 msgid "*Argh* I have been...defeated..."
 msgstr " *Argh* Én... meghalok..."
 
@@ -3262,15 +3255,13 @@ msgstr "Délkeleti őrhely"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:231
-#, fuzzy
 msgid "Resist until turns run out"
 msgstr "Kitartasz a körök végéig"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:233
-#, fuzzy
 msgid "Defeat all enemy leaders. (Heroic bonus)"
-msgstr "vagy megölöd az ellenséges vezéreket (hősi bónusz)"
+msgstr "Megölöd az ellenséges vezéreket. (Hősi bónusz)"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:356
@@ -3352,24 +3343,23 @@ msgstr "Vólrand"
 
 #. [message]: speaker=Vólrand
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:347
-#, fuzzy
 msgid ""
 "Indeed, sir! It's an entire human army, and they are burning forests and "
 "pillaging villages in the border hills! They have even impaled the skulls of "
 "our fallen kin on their banners!"
 msgstr ""
 "Meg tudom erősíteni, uram! Egy komplett emberi hadsereg támad, felégetik az "
-"erdőket és lerombolják a favakat a határmenti dombokon."
+"erdőket és lerombolják a favakat a határmenti dombokon. Ráadásul az elesett "
+"bajtársaink fejét feltűzték a zászlóhegyükre!"
 
 #. [message]: speaker=Anlindë
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:352
-#, fuzzy
 msgid ""
 "An entire army? That's impossible; humans are not capable of raising troops "
 "in such numbers!"
 msgstr ""
-"Egy egész hadsereg? Lehetetlen! Az emberek az Aranykor óta képtelenek egy "
-"nagyszámú hadsereget kiállítani. Tévedsz katona."
+"Egy egész hadsereg? Lehetetlen! Az emberek képtelenek egy nagyszámú "
+"hadsereget kiállítani. "
 
 #. [message]: role=supporter
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:357
@@ -3699,7 +3689,6 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:666
-#, fuzzy
 msgid "*Ugh* I am finished."
 msgstr " *Uhh* Bevégeztetett."
 
@@ -4312,6 +4301,8 @@ msgid ""
 "This subterranean river leads to an exit to a valley in the West. It is a "
 "long and dark way, so follow me carefully and don't stray from the path."
 msgstr ""
+"Ez a búvópatak nyugatra egy völgybe lép ki. Hosszú és sötét út vezet odáig, "
+"úgyhogy óvatosan lépkedjetek, s ne térjetek le az ösvényről."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:415
@@ -4369,45 +4360,38 @@ msgstr "Keresztül a sivatagon"
 
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:63
-#, fuzzy
 msgid "team_name^Neutral humans"
-msgstr "Emberek"
+msgstr "Semleges emberek"
 
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:85
-#, fuzzy
 msgid "team_name^Human barbarians"
-msgstr "Barbárok"
+msgstr "Barbár emberek"
 
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:107
-#, fuzzy
 msgid "team_name^Orcish barbarians"
-msgstr "Barbárok"
+msgstr "Barbár orkok"
 
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:145
-#, fuzzy
 msgid "team_name^Roaming ghosts"
-msgstr "Lojalisták"
+msgstr "Ksértő szellemek"
 
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:163
-#, fuzzy
 msgid "team_name^Roaming creatures"
-msgstr "Nagák"
+msgstr "Bolyongó lények"
 
 #. [scenario]: id=04_Over_the_Sands, id=Lanya, type=Fugitive, id=Gledd, type=Huntsman, id=Karun Baghar, type=Orcish Warrior, type=Mudcrawler
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:211
-#, fuzzy
 msgid "Lanya"
-msgstr "Lana"
+msgstr "Lanya"
 
 #. [scenario]: id=04_Over_the_Sands, id=Lanya, type=Fugitive, id=Gledd, type=Huntsman, id=Karun Baghar, type=Orcish Warrior, type=Mudcrawler
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:227
-#, fuzzy
 msgid "Gledd"
-msgstr "Glen"
+msgstr "Gledd"
 
 #. [scenario]: id=04_Over_the_Sands, id=Lanya, type=Fugitive, id=Gledd, type=Huntsman, id=Karun Baghar, type=Orcish Warrior, type=Mudcrawler
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:242
@@ -4502,7 +4486,6 @@ msgstr ""
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:403
-#, fuzzy
 msgid ""
 "Everything in the distance is so...dry... There is no plant that could "
 "thrive in this heat!"
@@ -4547,10 +4530,12 @@ msgid ""
 "is left of it, of course. Many eons ago, these dry mountains did not even "
 "exist."
 msgstr ""
+"Valóban az volt! Ha jól emlékszem, akkor a Lintanir-erdőség terült el itt, "
+"az északi tündék otthonának délnyugati része... habár mostanra ebből semmi "
+"nem látszik. Sok-sok évvel ezelőtt ezek a kopár hegyek még nem voltak itt."
 
 #. [message]: speaker=Anlindë
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:428
-#, fuzzy
 msgid ""
 "Over time, supporting our people will be more difficult, especially here in "
 "the desert. Breeding horses for mounts is already difficult for want of "
@@ -4558,7 +4543,7 @@ msgid ""
 msgstr ""
 "Az idő múlásával az ellátás egyre nehezebbé válik, különösen itt a "
 "sivatagban. A hátaslovaink ellátása a takarmányhiány miatt már most is "
-"lehetetlen."
+"szinte lehetetlen."
 
 #. [message]: role=supporter
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:433
@@ -4566,6 +4551,8 @@ msgid ""
 "So, what now, necromancer? We have never been so far from the green of our "
 "valley! We will surely perish on these sands!"
 msgstr ""
+"Szóval, holtidéző, most merre? Még sose távolodtunk el ilyen messzire a "
+"völgyünk erdeitől. Ez a homok a pusztulásunkat jelenti. "
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:438
@@ -4575,6 +4562,10 @@ msgid ""
 "should be able to find more water sources in these sands. I'll summon my "
 "scouts to explore the path ahead."
 msgstr ""
+"A vízkészleteteket ebben az oázisban feltölthetitek, mielőtt tovább mennénk "
+"északnyugatnak. Gondoskodjatok róla, hogy a gyógyítóitok készen álljanak. A "
+"sivatagban még találhatunk víznyerő helyet. kiküldöm a harcosaimat, hogy "
+"derítsék fel a terepet."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:468
@@ -4587,23 +4578,20 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:491
-#, fuzzy
 msgid "At your service, masters!"
-msgstr "Szolgálatotokra mesterek!"
+msgstr "Szolgálatotokra, mesterek!"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:496
-#, fuzzy
 msgid ""
 "But, but, that's an elven warrior! Quite pale and... translucid, though. "
 "What is this, Mal Keshar?"
 msgstr ""
-"De, de hiszen ez egy tünde harcos! Igaz, hogy nagyon halvány és áttetsző. Mi "
-"ez, Mal Keshar?"
+"De, de hiszen ez egy tünde harcos! Igaz, hogy nagyon halvány és... áttetsző. "
+"Mi ez, Mal Keshar?"
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:501
-#, fuzzy
 msgid ""
 "This is one of your fallen kinsmen from battles past. In contrast with most "
 "of my minions, this elvish spirit does not fight unwillingly; he has been "
@@ -4611,11 +4599,11 @@ msgid ""
 "by himself, he has been waiting for the opportunity to fight for you once "
 "again. He just needed a little help from an expert, such as myself."
 msgstr ""
-"Ez, 'barátom' inkább ő, egy magadfajta lény régmúlt idők csatáiból. Legtöbb "
-"teremtményemmel ellentétben ez a tünde lélek nem akarata ellenére harcol. "
-"Egész idő alatt követett téged, s végig arra várt, hogy lehetőséget kapjon, "
-"hogy továbbra is érted harcoljon. Mivel magától képtelen materializálódni, "
-"így egy kis segítséget nyújtottam neki, s most megjelent. "
+"Ez, egy magadfajta lény régmúlt idők csatáiból. Legtöbb teremtményemmel "
+"ellentétben ez a tünde lélek nem akarata ellenére harcol. Egész idő alatt "
+"követett téged, s végig arra várt, hogy lehetőséget kapjon, hogy továbbra is "
+"érted harcoljon. Mivel magától képtelen materializálódni, így egy kis "
+"segítséget nyújtottam neki, s most megjelent. "
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:506
@@ -4656,19 +4644,17 @@ msgstr "Ellenségesnek látszik. Mal Keshar, nem tudsz valamit csinálni?"
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:567
-#, fuzzy
 msgid ""
 "No. These ghosts have free will, and roam about these sands due to their "
 "painful deaths."
 msgstr ""
-"Nem. Ezeknek a kóbor lelkeknek szabad akaratuk van, mivel hirtelen halál "
-"következtében szabadultak ki."
+"Nem. Ezeknek a kóbor lelkeknek szabad akaratuk van, s kísértenek hirtelen "
+"haláluk helyszíne közelében."
 
 #. [message]: speaker=second_unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:599
-#, fuzzy
 msgid "Oh...elves? I must be hallucinating again..."
-msgstr "Huhh! Tündék? Biztosan csak vizionálok..."
+msgstr "Óóó... Tündék? Biztosan csak megint hallucinálok..."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:604
@@ -4719,19 +4705,17 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:658
-#, fuzzy
 msgid "Argh! I'm vanquished by these puny invaders!"
-msgstr "Argh! Legyőzettem!"
+msgstr "Argh! Legyőztek ezek a szánalmas behatolók!"
 
 #. [message]: speaker=$capable_speaker
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:689
-#, fuzzy
 msgid ""
 "This orc kept some gold in his tent. It is not more than a few dozen, but it "
 "is better than nothing."
 msgstr ""
-"Nicsak, az ork főnök egy kis pénzt rejtegetett a sátrában. Nehéz idők "
-"járnak, nem valami nagy összeg, de a semminél ez is több."
+"Nicsak, az ork egy kis pénzt rejtegetett a sátrában. Nehéz idők járnak, nem "
+"valami nagy összeg, de a semminél ez is több."
 
 #. [message]: speaker=second_unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:704
@@ -4740,7 +4724,6 @@ msgstr "Rooaargh!!"
 
 #. [message]: speaker=$elvish_speaker
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:727
-#, fuzzy
 msgid ""
 "I have seen and heard about odd things in my life, but that is just "
 "ridiculous! A crawling glob of mud?"
@@ -4750,27 +4733,31 @@ msgstr ""
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:734
-#, fuzzy
 msgid ""
 "Crawling, yes. But it is not a simple glob of mud - it has been animated by "
 "magic means. Although they are not especially tough, if you get surrounded "
 "by a pack of them you will have serious trouble. Especially if you have been "
 "under these suns for too long. He, he."
 msgstr ""
-"Csúszkál az igaz, de ez nem csak egy egyszerű sárkupac, hanem "
-"varázseszközökkel életre keltett lény. Bár nem túl veszélyesek, de ha egy "
-"csomó ilyen körülvesz, komoly sérüléseket tudnak okozni."
+"Csúszkál az igaz, de ez nem csak egy egyszerű sárkupac - varázseszközökkel "
+"életre keltett lény. Bár nem túl veszélyesek, de ha egy csomó ilyen "
+"körülvesz, komoly sérüléseket tudnak okozni. Főleg ha még a napok is "
+"csökkentik az életerődet. He he!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:791
 msgid ""
 "This is <i>our</i> oasis. Go away or we'll crush your skulls into the sand!"
 msgstr ""
+"Ez a <i>MI</i> oázisunk. Távozzatok el innen, vagy a koponyátokat a sivatagi "
+"szél görgeti a homokban!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:811
 msgid "As if those damned bats weren't enough. Get away from our territory!"
 msgstr ""
+"Mintha nem lenne elég bajunk azokkal az átkozott denevérekkel. Húzzatok el "
+"innen, de gyorsan!"
 
 #. [message]: role=filthy
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:915
@@ -4779,9 +4766,8 @@ msgstr "Ha ha ha! Elkaptunk titeket! Nem szökhettek meg!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:933
-#, fuzzy
 msgid "Aaah! Help!"
-msgstr "Aaah! Seg..!"
+msgstr "Áááh! Segítség!"
 
 #. [message]: role=filthy
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:954
@@ -4794,11 +4780,8 @@ msgstr ""
 
 #. [message]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:966
-#, fuzzy
 msgid "These pointy-eared demons just impossible to get rid of."
-msgstr ""
-"Én is azt hittem, de a jelek szerint ezektől a hegyesfülű démonoktól nem "
-"lehet megszabadulni."
+msgstr "Ezektől a hegyesfülű démonoktól nem lehet megszabadulni."
 
 #. [message]: role=filthy
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:971
@@ -4813,34 +4796,32 @@ msgstr "Élőholtak! Ezek az átkozott undormányok már megint ránktámadtak!"
 #. [message]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:989
 msgid "Ah, but I love the sound of smashing skeletons!"
-msgstr ""
+msgstr "Ah, de én szeretem hallani a csontok reccsenését!"
 
 #. [message]: speaker=Anlindë
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:996
-#, fuzzy
 msgid ""
 "They are blocking our path through the mountains. We must defeat them before "
 "continuing."
 msgstr ""
 "Elállják az utat északnyugat felé. Kénytelenek leszünk leszámolni velük, "
-"mielőtt folytathatnánk utunkat a folyóparton."
+"mielőtt folytathatnánk utunkat."
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1002
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1107
-#, fuzzy
 msgid "Defeat the leader of the bandits who control the northwestern pass."
-msgstr "Legyőzöd az északnyugati területet ellenőrző banditák vezérét"
+msgstr "Legyőzöd az északnyugati átjárót ellenőrző banditák vezérét"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1028
 msgid "Ouch! Noo...I'm finished...and we have lost...our precious valley..."
-msgstr ""
+msgstr "Aúúú! Nee...Meghalok... és elvesztjük...a mi gyönyörű völgyünket..."
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1033
 msgid "The irony in this is unsettling."
-msgstr ""
+msgstr "A sors iróniája."
 
 #. [message]: speaker=second_unit
 #. [message]: speaker=Anlindë
@@ -4861,6 +4842,10 @@ msgid ""
 "cannot tarry here for much longer, lest we become prey of better prepared "
 "barbarians."
 msgstr ""
+"Úgy tűnik, hogy ez egy hatalmas tünde erődítmény volt nagyon régen, mielőtt "
+"a homok betemette volna. Nagyon alkalmas hely lehetett egykoron - de most "
+"nem táborozhatunk le itt, nehogy a jobban felkészült barbárok áldozataivá "
+"váljunk."
 
 #. [message]: speaker=Anlindë
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1102
@@ -4868,6 +4853,8 @@ msgid ""
 "At least we can replenish our supplies here and heal the wounded before "
 "continuing."
 msgstr ""
+"Legalább felfrissíthetjük a készleteinket, és elláthatjuk a sebesültjeinket "
+"itt, mielőtt továbbmennénk."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1154
@@ -4875,6 +4862,8 @@ msgid ""
 "After all this time, the old elven roads still exist under the sands. It is "
 "unfortunate that they cannot guide us anywhere now."
 msgstr ""
+"Ennyi idő elteltével is még látszanak az ősi tünde utak nyomai. Sajnos "
+"nekünk nem azokat kell követnünk."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1195
@@ -4882,6 +4871,8 @@ msgid ""
 "Ah, the ruins of ancient elven castles. I wish they could still provide us "
 "with shelter from the harsh light of the suns."
 msgstr ""
+"Ah, ősi tünde kastélyok romjai. Bárcsak védelmet nyújtanának nekünk a "
+"perzselő napsugaraktól."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1231
@@ -4890,7 +4881,6 @@ msgstr "Nem mehetünk tovább, amíg nem végeztünk a banditákkal!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1237
-#, fuzzy
 msgid "The river continues to the northwest."
 msgstr "A folyóágy északnyugatra egy kanyonba vezet."
 
@@ -4902,6 +4892,9 @@ msgid ""
 "easier for you to travel across the sands with an unlimited water supply by "
 "your side."
 msgstr ""
+"Ezt a folyót kellene követnünk. Bár nem tudom, pontosan hova vezet, de azt "
+"gyanítom, hogy a Központi-hegységhez közel ered. Nektek is könnyebb lenne "
+"úgy vándorolni a sivatagban, ha korlátlan vízforrás áll a rendelkezésetekre."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1275
@@ -4910,16 +4903,19 @@ msgid ""
 "could spend all the day here, instead of <i>fighting</i> enemies over the "
 "sands. Oh, how much I miss our peaceful valley..."
 msgstr ""
+"Ahhh, jólesik a lábamat áztatni ennek az oázisnak a vizében... Bárcsak egész "
+"nap itt heverhetnék, ehelyett a homokban kell <i>harcolni</i>. Ó, mennyire "
+"hiányzik nekem a kis, békés völgyünk..."
 
 #. [message]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1337
 msgid "Halt there, strangers! Do you come to our valley in peace, or not?"
-msgstr ""
+msgstr "Megálljatok, idegenek! Békével jöttök?"
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1342
 msgid "Is that a trick question?"
-msgstr ""
+msgstr "Ez valami trükkös kérdés?"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1347
@@ -4927,6 +4923,8 @@ msgid ""
 "We come in peace. We are just looking for water, food, and safe passage to "
 "the northwest."
 msgstr ""
+"Békével jövünk. Csak a vízkészletünket akarjuk feltölteni, némi élelmet "
+"keresünk, s aztán továbbmegyünk északnyugatnak."
 
 #. [message]: speaker=Lanya
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1352
@@ -4935,17 +4933,21 @@ msgid ""
 "here, you will have to give us $free_value pieces of gold first. We need to "
 "be sure whether your intentions are good or not."
 msgstr ""
+"Ó, mi bőviben vagyunk a víznek is, az élelemnek is, de ha igénybe akarjátok "
+"venni a szolgáltatásainkat, fizetnetek kell érte $free_value pieces aranyat. "
+"Tudnunk kell, hogy a szándékaitok komolyak-e."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1357
 msgid ""
 "If they actually have so much resources, why do they need our gold at all?"
 msgstr ""
+"Ha annyira bőviben vannak a készleteknek, miért kell nekik a mi aranyunk?"
 
 #. [message]: speaker=Anlindë
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1362
 msgid "I do not know. It might be a local custom."
-msgstr ""
+msgstr "Nem tudom. Valami helyi szokás lehet."
 
 #. [message]: speaker=Galas
 #. [event]
@@ -4957,13 +4959,11 @@ msgstr "Hmmm..."
 
 #. [option]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1405
-#, fuzzy
 msgid "Very well. Here is the gold."
-msgstr "Persze. Itt az arany."
+msgstr "Rendben van, tessék az arany."
 
 #. [message]: speaker=Lanya
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1419
-#, fuzzy
 msgid ""
 "You are welcome, then. As long as you don't start pillaging our villages, "
 "that is. Know that if you do so, you'll encounter only problems."
@@ -4974,13 +4974,12 @@ msgstr ""
 #. [option]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1439
 msgid "I have changed my mind. We have come to take over your valley."
-msgstr ""
+msgstr "Meggondoltam a dolgot. Elfoglaljuk ezt a völgyet."
 
 #. [option]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1449
-#, fuzzy
 msgid "I think we'll just leave for the moment."
-msgstr "Mintha segélykiáltásokat hallottam volna."
+msgstr "Azt hiszem, most nem megyünk be."
 
 #. [message]: speaker=Galas
 #. [message]: speaker=Lanya
@@ -4991,9 +4990,8 @@ msgstr "Hát akkor, legyen."
 
 #. [option]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1472
-#, fuzzy
 msgid "Unfortunately, we don't have that much gold."
-msgstr "Sajnos nincs ennyi pénzünk."
+msgstr "Sajnos, nincs ennyi pénzünk."
 
 #. [message]: speaker=Lanya
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1482
@@ -5001,6 +4999,8 @@ msgid ""
 "That's unfortunate indeed. Please leave our valley immediately, or we might "
 "have to take action."
 msgstr ""
+"Ez valóban nagy szerencsétlenség. Akkor viszont nem léphettek a völgyünkbe. "
+"Ha mégis megpróbáljátok, kénytelenek leszünk fegyvert használni. "
 
 #. [message]: speaker=Lanya
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1504
@@ -5008,27 +5008,32 @@ msgid ""
 "We already told you to leave our valley unless you are willing to pay! Get "
 "rid of these invaders!"
 msgstr ""
+"Megmondtuk nektek, hogy fizetség nélkül nem léphettek be! Fegyverbe! Űzzük "
+"el a betolakodókat!"
 
 #. [message]: speaker=Lanya
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1517
 msgid ""
 "I should have known you could not be trusted. Get rid of the invaders, now!"
 msgstr ""
+"Tudhattam volna, hogy nem bízhatunk bennetek. Fegyverbe! Űzzük el a "
+"betolakodókat!"
 
 #. [message]: speaker=Lanya
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1562
 msgid ""
 "Curse you, invaders... Think about... what you've done to...our people..."
 msgstr ""
+"Átok rátok, behatolók... Örökre emlékezni fognak rátok... amit tettetek a "
+"népünkkel..."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1587
 msgid "There is a cave entrance here. I wonder where it leads."
-msgstr ""
+msgstr "Egy barlangbejárat van itt. Vajon hova vezet?"
 
 #. [message]: speaker=Lanya
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1592
-#, fuzzy
 msgid ""
 "That path leads to an old mountain pass that goes high above the ground, "
 "where still the height of the surrounding peaks does not allow sunlight to "
@@ -5037,7 +5042,9 @@ msgid ""
 "things happen and can be glimpsed at night."
 msgstr ""
 "Ha jól emlékszem, ez az ösvény egy öreg hágóhoz vezet, amit a környező "
-"hegycsúcsok miatt még a napok sem világítanak meg."
+"hegycsúcsok miatt még a napok sem világítanak meg. Azt hiszem a nyugati "
+"hegyekhez visz a hágó - de mi nem javasoljuk, hogy arra menjetek. Éjszaka "
+"szörnyű dolgok történnek arra, s horrorisztikus lényeket lehet látni. "
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1622
@@ -5064,14 +5071,14 @@ msgstr "Ne. Talán később meggondolom magam. "
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1664
-#, fuzzy
 msgid ""
 "We are too far from our home region, yet these sand dwellers talk about our "
 "race as if they had met us recently.  After so many eons, shouldn't they "
 "have at least forgotten the name of our race?"
 msgstr ""
-"Valami zavar engem. Ezek a homoklakók úgy beszéltek rólunk, mintha nemrég "
-"találkoztak volna velünk. Annyi század elteltével még emlékeznek a nevünkre?"
+"Messze jöttünk az otthonunktól, ezek a homoklakók úgy beszéltek rólunk, "
+"mintha nemrég találkoztak volna velünk. Annyi idő elteltével már rég el "
+"kellett volna felejtsék a nevünket is."
 
 #. [message]: speaker=Anlindë
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1669
@@ -5081,6 +5088,9 @@ msgid ""
 "hunters and guards before. Anyway, we should not let small questions such as "
 "this delay us any further."
 msgstr ""
+"Mivel ezek nomádok, és jobban bírják a forróságot, lehet, hogy korábban már "
+"találkoztak a vadászainkkal vagy az őreinkkel. Azt hiszem ez a kérdés a "
+"legkisebb probléma jelenlegi helyzetünkben. "
 
 #. [scenario]: id=05a_Crossfire
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:5
@@ -6060,7 +6070,6 @@ msgstr "Biztosítod a völgyet (leszámolsz az összes ellenséges vezérrel)"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:213
-#, fuzzy
 msgid ""
 "This is it, the valley of the Moon. Many millennia ago, the people then "
 "living near here believed the end of the world had come.  Rocks fell from "
@@ -6069,11 +6078,11 @@ msgid ""
 "they found a vast smoking crater here; and that night there was blood on the "
 "face of the Greater Moon."
 msgstr ""
-"Sokezer évvel ezelőtt az itt élő emberek azt hitték, hogy a világvége "
-"érkezett el. Sziklák hullottak az égből, amely sok napon keresztül sötét "
-"maradt. Földrengések, s egyéb jelek is voltak. Amikor a nap felkelt, "
-"akkoriban még csak egy nap volt, hatalmas füstölgő kráterek borították a "
-"felszínt. Azután éjszaka a Nagy-Hold képe véres volt. "
+"Itt vagyunk a Hold-völgyben. Sokezer évvel ezelőtt az itt élő emberek azt "
+"hitték, hogy a világvége érkezett el. Sziklák hullottak az égből, amely sok "
+"napon keresztül sötét maradt. Földrengések, s egyéb jelek is voltak. Amikor "
+"a nap felkelt, akkoriban még csak egy nap volt, hatalmas füstölgő kráterek "
+"borították a felszínt. Azután éjszaka a Nagy-Hold képe véres volt. "
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:214
@@ -6082,7 +6091,6 @@ msgstr "Ha jól emlékszem hároméves lehettem, amikor..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:219
-#, fuzzy
 msgid "Intruders! Alert the chieftain!"
 msgstr "Behatolók! Riadóztassátok a nagyfőnököt!"
 
@@ -6549,6 +6557,8 @@ msgid ""
 "It looks like there used to be something else in this passage, but the path "
 "is now blocked by large rocks. We can't continue this way."
 msgstr ""
+"Úgy tűnik, valamikor gyakran használták ezt az ösvényt, de most hatalmas "
+"sziklák zárják el az utat. Nem mehetünk erre."
 
 #. [scenario]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:599
@@ -8208,9 +8218,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:646
-#, fuzzy
 msgid "*ack* Heh heh. We'll...never tell...you..."
-msgstr " *ack* Nem mond... hatjuk meg..."
+msgstr " *ack* Heh heh. Nem mond... hatjuk meg..."
 
 #. [message]: speaker=second_unit
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:664
@@ -8534,7 +8543,6 @@ msgstr "A rúnavéset aktiválódott."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1012
-#, fuzzy
 msgid "All glyphs have been activated. The earth shakes!"
 msgstr "Minden rúnavéset aktiválódott. A föld megrengett."
 
@@ -8667,7 +8675,7 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1210
 msgid "No, do not destroy him! He is our ally!"
-msgstr ""
+msgstr "Ne, ne bántsd! A szövetségesünk!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1212
@@ -8675,6 +8683,8 @@ msgid ""
 "Who are you? What do you want from me, and why do you allow the undead to "
 "join your ranks?"
 msgstr ""
+"Kik vagytok? Mit akartok tőlem, és hogy fogadhattatok be magatok közé egy "
+"holtidézőt?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1214
@@ -8694,28 +8704,28 @@ msgid ""
 "Mal Keshar, necromancer extraordinaire, and I obviously would not be here "
 "with these weaklings if I could have chosen otherwise."
 msgstr ""
+"Mal Keshar, különleges holtidéző, s nyilvánvalóan nem ezekkel a puhányokkal "
+"lennék, ha lenne más választásom. "
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1222
-#, fuzzy
 msgid ""
 "And I'm Igor! But...I'm afraid I don't have any interesting occupations "
 "nowadays..."
-msgstr "Igor vagyok. Sajnos semmi komoly tisztségem nincs..."
+msgstr ""
+"Én Igor vagyok. És... Sajnos semmi komoly tisztségem nincs e pillanatban..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1224
-#, fuzzy
 msgid ""
 "I was certainly not informed of having a valley of my own. And you have not "
 "answered my question yet. What is the necromancer doing by your side?"
 msgstr ""
-"Nem tudtam arról, hogy lenne egy saját völgyem. S miért kéne nekem segítenem "
-"a fajtádat, delevény?"
+"Nem tudtam arról, hogy lenne egy saját völgyem. De nem válaszoltatok a "
+"kérdésemre. Mit keres az oldalatokon egy delevény?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1226
-#, fuzzy
 msgid ""
 "He has assisted us along the way to find you, my lady, and saved our lives "
 "multiple times. You are the Lady of Light, are you not?"
@@ -8774,12 +8784,12 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1240
 msgid "Demons... Are you speaking the truth, Galas?"
-msgstr ""
+msgstr "Démonok... Igazat beszélsz, Galas?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1242
 msgid "We would not lie about these matters, my lady."
-msgstr ""
+msgstr "Ebben a dologban soha nem hazudnék, úrnőm."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1244
@@ -8787,12 +8797,13 @@ msgid ""
 "I cannot believe this. I personally made sure that they would never return "
 "to Irdya on their own... We sealed Zhangor...we closed the portal..."
 msgstr ""
+"Ezt nem hiszem el. Személyesen győződtem meg arról, hogy nem képesek "
+"visszatérni Irdya földjére... Elzártuk Zhangort... Lezártuk a kaput..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1246
-#, fuzzy
 msgid "Zhangor? I do not understand..."
-msgstr "Yanqui? Nem értem..."
+msgstr "Zhangor? Nem értem..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1248
@@ -8824,7 +8835,6 @@ msgstr "Egy percnyi csend következett."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1254
-#, fuzzy
 msgid ""
 "I can feel the suffering of your people. I know... Those creatures almost "
 "destroyed the last remnants of the elvish civilization. We are facing the "
@@ -8836,7 +8846,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1256
-#, fuzzy
 msgid ""
 "And you, necromancer Mal Keshar. I long sought to destroy you for your "
 "crimes. You attacked innocent travelers, peaceful villages, and attempted to "
@@ -8848,14 +8857,12 @@ msgstr ""
 "bűneid miatt. Ártatlan utazókat támadtál meg, békés falvakat, és "
 "megpróbáltad kiirtani Északfölde ork törzseit, még azután is, hogy "
 "szövetségre léptek az Északi Szövetséggel. De belefáradtál a gonoszságaidba. "
-"A lelked romlott, de érzem, hogy jóvá akarod tenni a bűneidet. Nyomorult "
-"Malin."
+"A lelked romlott, de érzem, hogy jóvá akarod tenni a bűneidet."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1258
-#, fuzzy
 msgid "How do you- What do you mean?"
-msgstr "Mire gondolsz, tünde?"
+msgstr "Hogy- Mire gondolsz?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1260
@@ -8864,7 +8871,6 @@ msgstr "Úrnőm, találkoztál már démonokkal korábban is?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1262
-#, fuzzy
 msgid ""
 "Not in great numbers. The only demon I ever met was a powerful ruler of "
 "their kind... What, Anlindë? I hope you understand that we cannot continue "
@@ -8876,7 +8882,7 @@ msgstr ""
 "démonúr volt... Tessék, Anlindë? Remélem, megérted, hogy nem folytathatjuk a "
 "titkolózást, s életünk e kis epizódját meg kell ismernie Galasnak és a "
 "delevénynek is. Tudniuk kell, mivel állnak szemben. Itt az ideje, hogy "
-"megismerjék Yanqui, a démonúr történetét."
+"megismerjék Zhangor, a démonúr történetét."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1264
@@ -8909,7 +8915,6 @@ msgstr "Akkor én... menjek el?"
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1275
-#, fuzzy
 msgid ""
 "Hmm... You are a lonely goblin. I guess it would not hurt if you listen as "
 "well. Your people may have forgotten or just never learned the history, but "
@@ -9063,7 +9068,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1329
-#, fuzzy
 msgid ""
 "Many centuries later, something horrible occurred in the elvish lands. No "
 "one that is still alive remembers exactly how it happened, nor would they "
@@ -9075,18 +9079,17 @@ msgid ""
 "and destroy the elvish civilization in its entirety, taking with it all the "
 "knowledge they had collected over the years."
 msgstr ""
-"Sok évszázaddal később valami szörnyűség történt a tündék területén. Nincs "
-"élő szemtanú, erről gondoskodtunk, aki pontosan tudná, hogy is történt, de "
+"Sok évszázaddal később valami szörnyűség történt a tündék területén. Senki "
+"sem tudja pontosan, hogyan történt, vagy ha tudja, nem akarja elmondani, de "
 "Wesmere legkiválóbb boszorkányainak sikerült egy másik világ felé kaput "
 "nyitniuk. Csakhogy a kísérlet balul sült el, mert felébresztettek egy "
-"hatalmas és gonosz erőt, amely Yanqui formájában öltött testet, s aki egy "
+"hatalmas és gonosz erőt, amely Zhangor formájában öltött testet, s aki egy "
 "fiatal tünde látnok képében jelent meg közöttük. Megjósolta nekik, hogy egy "
 "nagy gonosz fogja elnyelni a földeket, megsemmisíti a tünde civilizációt is, "
 "minden eddig megszerzett tudásukkal egyetemben."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1331
-#, fuzzy
 msgid ""
 "Predictably enough, he said that he would protect them if they worshiped him "
 "as a god. He also promised them unlimited knowledge and power to seal the "
@@ -9099,8 +9102,8 @@ msgstr ""
 "imádják. Egyúttal korlátlan tudást és hatalmat is ígért nekik, az egyezség "
 "megpecsételésére - pont azt, amire a tündék vágytak. A nagyravágyás "
 "elhomályosította Wesmere urainak elméjét, s belementek az alkuba, habár "
-"Yanqui véráldozatot is követelt. Akik tiltakoztak aKa'lian határozata ellen, "
-"azok lettek az első áldozatai a démonúrnak."
+"Zhangor véráldozatot is követelt. Akik tiltakoztak a Ka'lian határozata "
+"ellen, azok lettek az első áldozatai a démonúrnak."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1333
@@ -9117,7 +9120,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1335
-#, fuzzy
 msgid ""
 "The Emperor that ruled Wesnoth in those days died of poisoning six years "
 "after Zhangor's appearance in Wesmere. Some thought that he effectively "
@@ -9131,7 +9133,7 @@ msgid ""
 "believed people would recognize him as a 'rightful' ruler once a third sun "
 "was in the sky."
 msgstr ""
-"Wesnoth császára Yanqui megjelenése után hat évvel mérgezés következtében "
+"Wesnoth császára Zhangor megjelenése után hat évvel mérgezés következtében "
 "elhalálozott. Néhányan egész egyszerűen öngyilkosságra gyanakodtak. Mások "
 "kételkedtek ebben, s úgy vélték, hogy az új uralkodó - egy Dantair nevű "
 "nemes, akivel magam is találkoztam korábban - áll a dolog mögött. Ő maga sem "
@@ -9229,7 +9231,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1349
-#, fuzzy
 msgid ""
 "Naia and Sela scorched all known lands drying up rivers and lakes, fields "
 "and forests. Zhangor's power made Wesmere Forest stand intact, however; "
@@ -9239,15 +9240,14 @@ msgid ""
 "not worthy of living."
 msgstr ""
 "Naia és Sela felperzselte a földeket, kiszárította a folyókat, a mezőket, az "
-"erdőket és a tavakat. Egyedül a Wesmere-erdő maradt érintetlen Yanqui "
-"erejének következtében. Zöldellt, és látszólag béke honolt a vidékén. Yanqui "
-"viszont egyre többet akart, és a Ka'lian teljesítette a kívánságait. Minden "
-"erdei lény, beleértve más erdők tündéit is, eretneknek nyilváníttatott, akik "
-"nem érdemlik meg az életet."
+"erdőket és a tavakat. Egyedül a Wesmere-erdő maradt érintetlen Zhangor "
+"erejének következtében. Zöldellt, és látszólag béke honolt a vidékén. "
+"Zhangor viszont egyre többet akart, és a Ka'lian teljesítette a kívánságait. "
+"Minden más lény, beleértve más erdők tündéit is, eretneknek nyilváníttatott, "
+"akik nem érdemlik meg az életet."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1351
-#, fuzzy
 msgid ""
 "So, as creatures from other races, or elves from foreign forests came to "
 "Wesmere seeking shelter, the dark cultists sacrificed them to Zhangor. The "
@@ -9257,8 +9257,8 @@ msgid ""
 "the outside lands."
 msgstr ""
 "Ahogy más fajok, más vidékről származó tündék jöttek a Wesmere-erdőbe, hogy "
-"védelmet találjanak, Yanqui papjai feláldozták őket istenüknek. A fájdalom "
-"és a kínok táplálták Yanquit, növelték erejét és hatalmát. Amikor a "
+"védelmet találjanak, Zhangor papjai feláldozták őket istenüknek. A fájdalom "
+"és a kínok táplálták Zhangort, növelték erejét és hatalmát. Amikor a "
 "menekültek száma megcsappant, elrendelte, hogy rajtaütéseket kell szervezni, "
 "s tündéket, embereket, orkokat, mindenféle lényeket kell elfogni a környező "
 "területeken."
@@ -9276,7 +9276,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1355
-#, fuzzy
 msgid ""
 "Unaware of the corruption at the forest's heart, we decided to ask refuge of "
 "the Ka'lian. However, we were ambushed at night during our travel to the "
@@ -9287,8 +9286,8 @@ msgid ""
 msgstr ""
 "Nem tudván, mi zajlik ott, menedéket kértünk a Ka'liantól. Ahogy a főváros "
 "felé mentünk, éjszaka rajtunk ütöttek. Sokan meghaltak közülünk, beleértve "
-"öregeket és gyerekeket is. Vagy a csatában estek el, vagy Yanquinak áldozták "
-"fel őket a hívei, ahogy a férjem, Argan később kiderítette. Élete "
+"öregeket és gyerekeket is. Vagy a csatában estek el, vagy Zhangornak "
+"áldozták fel őket a hívei, ahogy a férjem, Argan később kiderítette. Élete "
 "kockáztatásával lopakodott el a fővárosba, s kémlelte ki a szertartásukat."
 
 #. [event]
@@ -9359,7 +9358,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1365
-#, fuzzy
 msgid ""
 "It is ironic how we elves have always despised humans because of their "
 "moral, intellectual, and physical inferiority. The humans may have doomed "
@@ -9376,7 +9374,7 @@ msgstr ""
 "összeomlásáért csak a mi fajunk tehető felelőssé. Az tény, hogy mi ritkán "
 "szoktunk hibás döntéseket hozni, de ezeknek mindig katasztrofális hatásai "
 "voltak. Attól tartok, hogy most is valami hasonlóval kell szembenéznünk. "
-"Yanqui nem az első spirituális vezető volt, aki súlyos károkat okozott a "
+"Zhangor nem az első spirituális vezető volt, aki súlyos károkat okozott a "
 "népünknek, de talán mind közül ő volt a legrosszabb."
 
 #. [event]
@@ -9483,7 +9481,6 @@ msgstr "Jaj ne, most mit csinálunk?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1387
-#, fuzzy
 msgid ""
 "Don't despair. Although the force of the Union has been lost forever, I will "
 "try to help you in any way that is possible. Still, I can't avoid being "
@@ -9496,21 +9493,20 @@ msgstr ""
 "Ne adjátok fel a reményt! Bár az Egyesülés ereje mindörökre elveszett, "
 "minden eszközt megragadok, hogy segíthessek rajtatok. Nem akarok "
 "mellébeszélni, de zavar, hogy valaki kinyitotta a kaput, s újra "
-"feltámasztotta Yanquit. Aki ezt tette, valamilyen úton-módon tudomással bír "
+"feltámasztotta Zhangort. Aki ezt tette, valamilyen úton-módon tudomással bír "
 "erről a történetről... esetleg baleset is lehet az események mögött, de ez "
-"nem valószínű. Őszintén remélem, hogy nem maga Yanqui vagy egy hasonszőrű "
-"lény okozta ezt a káoszt. "
+"nem valószínű. Őszintén remélem, hogy nem maga Zhangor, vagy egy hasonló "
+"erejű lény, okozta ezt a káoszt. "
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1389
-#, fuzzy
 msgid ""
 "The individual responsible for this may be related in some way to "
 "Yechnagoth. She also knew of Zhangor somehow, or that's what we had been "
 "told by our hero, Rogrimir."
 msgstr ""
 "Akárki is áll az események mögött, lehet, hogy kapcsolódik Yecnagothhoz. Ő "
-"is ismerte Yanqui történetét valahonnan, legalábbis ezt mesélte a mi nagy "
+"is ismerte Zhangor történetét valahonnan, legalábbis ezt mesélte a mi nagy "
 "utazónk, Rogrimir."
 
 #. [event]
@@ -10745,7 +10741,6 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:630
-#, fuzzy
 msgid ""
 "*ack* You can kill me, but that shall not save you. You are just delaying "
 "the inevitable!"
@@ -11859,9 +11854,8 @@ msgstr "(morogva) Majd meglátjuk, mit mondasz, amikor széthas-"
 
 #. [event]: (id=Galas) ()}
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:497
-#, fuzzy
 msgid "*Ahem* Sir Ranger, can we concentrate on the real subject please?"
-msgstr "*Khm*... vadász úr, foglalkozhatnánk komoly dolgokkal is?"
+msgstr "*Khm*... Vadász úr, foglalkozhatnánk komoly dolgokkal is?"
 
 #. [event]: (id=Galas) ()}
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:498
@@ -12636,9 +12630,8 @@ msgstr "Persze, de velünk -"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/14xB_The_Aragwaithi.cfg:161
-#, fuzzy
 msgid "-the Lady of Light on our side. That should be a good start."
-msgstr "A Világosság Úrnője velünk van. Kezdetnek ennyi is elég."
+msgstr "-A Világosság Úrnője velünk van. Kezdetnek ennyi is elég."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/14xB_The_Aragwaithi.cfg:162
@@ -15532,7 +15525,6 @@ msgstr "Nem, biztosan nem az."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:842
-#, fuzzy
 msgid ""
 "(reading the scroll) 'Faeries are known for their <i>glamour</i>, the "
 "ability to cast illusions to confuse their enemies, or even their victims. "
@@ -15541,12 +15533,12 @@ msgid ""
 "enhance your power and acquire the ability to perform a complete "
 "metamorphosis rather than a mere illusion'."
 msgstr ""
-"(olvassa a pergament) 'A tündérek jól ismertek a 'bűbáj' képességükről, "
-"amivel összezavarhatják az ellenségeiket, vagy az áldozataikat. De ez a "
-"képesség pusztán optikai illúziókat kelt, más szerveket nem befolyásol. "
-"Érintsd meg a rúnakristályt, s a benne rejlő varázserő kiterjeszti a "
-"képességeidet, s a teljes átváltozásra is képessé tesz, az egyszerű optikai "
-"csalás helyett.'"
+"(olvassa a pergament) 'A tündérek jól ismertek a <i>'bűbáj</i> "
+"képességükről, amivel összezavarhatják az ellenségeiket, vagy az "
+"áldozataikat. De ez a képesség pusztán optikai illúziókat kelt - más "
+"szerveket nem befolyásol. Érintsd meg a rúnakristályt, s a benne rejlő "
+"varázserő kiterjeszti a képességeidet, s a teljes átváltozásra is képessé "
+"tesz, az egyszerű optikai csalás helyett.'"
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:843
@@ -16560,7 +16552,7 @@ msgstr "Makacs férgek."
 #. [scenario]: id=22B_Face_of_the_Enemy
 #: Invasion_from_the_Unknown/scenarios/22B_Face_of_the_Enemy.cfg:4
 msgid "Face of the Enemy"
-msgstr ""
+msgstr "Az ellenség arca"
 
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:179
@@ -17968,7 +17960,6 @@ msgstr ""
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:26
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:53
-#, fuzzy
 msgid "Elynia is petrified by the Chimera or a Cockatrice"
 msgstr "Elyniát kővé változtatja egy gorgókakas vagy a kiméra"
 
@@ -23222,9 +23213,8 @@ msgstr ""
 
 #. [unit_type]: id=Errant Spirit
 #: Invasion_from_the_Unknown/units/undead/Errant_Spirit.cfg:5
-#, fuzzy
 msgid "Errant Spirit"
-msgstr "Erdei szellem"
+msgstr "Kóborló szellem"
 
 #. [unit_type]: id=Errant Spirit
 #: Invasion_from_the_Unknown/units/undead/Errant_Spirit.cfg:16
@@ -23233,6 +23223,9 @@ msgid ""
 "trapped in ethereal bodies that only vaguely resemble their former living "
 "appearances."
 msgstr ""
+"Ezek az elveszett lelkek a Kataklizma óta barangolnak Irdya kietlen "
+"pusztaságaiban éteri testük csapdájába esve, amelyek csak távolról "
+"emlékeztetnek korábbi élő alakjukra."
 
 #. [unit_type]: id=Shadow Minion, race=undead
 #: Invasion_from_the_Unknown/units/undead/Shadow_Minion.cfg:33
@@ -23993,3 +23986,1053 @@ msgstr ""
 #~ "\n"
 #~ "Érdekes kérdés, hogy hogy tudtak alkalmazkodni a napfényhez, s a sivatagi "
 #~ "örökös vízhiányhoz. Az agresszivitásuk azonban fikarcnyit sem változott."
+
+#~ msgid "So, what is the name of this place, Keshar?"
+#~ msgstr "Szóval, mi a neve ennek a helynek, Mal Keshar?"
+
+#~ msgid ""
+#~ "It used to be called Knalga, the Dwarven Kingdom. I am not sure if there "
+#~ "are any dwarves left to justify its name in this era."
+#~ msgstr ""
+#~ "Régen ez volt Knalga, a törpök királysága. Nem tudom, hogy illő-e ma is "
+#~ "ez a név, vagyishogy élnek-e még itt törpök."
+
+#~ msgid "Dwarves? Like..."
+#~ msgstr "Törpök? Olyanok, mint..."
+
+#~ msgid "Like that?"
+#~ msgstr "Mint micsodák?"
+
+#~ msgid "Dwarf"
+#~ msgstr "Törp"
+
+#~ msgid "Help! I need... help! It almost has me!"
+#~ msgstr "Segítség! Segít...setek! Majdnem elkaptak!"
+
+#~ msgid "Troll"
+#~ msgstr "Troll"
+
+#~ msgid "Roar!!!"
+#~ msgstr "Roar!!!"
+
+#~ msgid "Aaaah..."
+#~ msgstr "Aaaah..."
+
+#~ msgid "Exactly... uhm... All right."
+#~ msgstr "Pontosan... Ühüm... Nagyszerű!"
+
+#~ msgid "Troll's Corpse"
+#~ msgstr "Troll test"
+
+#~ msgid "Dwarf's Corpse"
+#~ msgstr "Törp test"
+
+#~ msgid ""
+#~ "Huh, interesting. Their corpses conserve part of their former strength."
+#~ msgstr "Ahh, érdekes. A testük részben megőrizte korábbi erejüket."
+
+#~ msgid "Why are you looking at me in that manner?"
+#~ msgstr "Miért nézel rám ilyen furcsán?"
+
+#~ msgid ""
+#~ "So, there must be dwarves left - unless we've had the ill luck of "
+#~ "witnessing the death, and undead resurrection, of the last one..."
+#~ msgstr ""
+#~ "Ezek szerint  élnek még a törpök, hacsaknem az utolsó törp halálának... "
+#~ "és élőholtként való feltámadásának lehettünk tanúi az imént."
+
+#~ msgid ""
+#~ "Search for their leader and ask for help. We will not survive very long "
+#~ "in these caves without the help of a local population."
+#~ msgstr ""
+#~ "Keressük meg a vezérét és kérjünk segítséget. Nem élhetünk sokáig ezekben "
+#~ "a barlangokban az itt lakók segítdége nélkül."
+
+#~ msgid "Dwarves and elves were never friends in my time."
+#~ msgstr "Az én időmben a tündék és a törpök egyáltalán nem barátkoztak."
+
+#~ msgid ""
+#~ "That's true, but they might agree if we offer them something in exchange. "
+#~ "Those greedy cave-dwellers would not refuse some gold and help, don't you "
+#~ "think so, Galas?"
+#~ msgstr ""
+#~ "Ez igaz, de talán megegyezhetünk velük, ha cserébe felajánlunk valamit. "
+#~ "Ezek a pénzsóvár barlanglakók alighanem elfogadnának némi aranyat és egy "
+#~ "kis segítséget, nem gondolod Galas?"
+
+#~ msgid "I guess so. But help with what?"
+#~ msgstr "Én is azt hiszem. De miféle segítségre gondoltál?"
+
+#~ msgid ""
+#~ "Their natural enemies: Trolls. We'd better rid these tunnels of them "
+#~ "before asking the dwarves anything."
+#~ msgstr ""
+#~ "Az örök ellenségeikre a trollokra. Mielőtt bármit is kérnénk a törpöktől, "
+#~ "jó lenne megtisztítani a járatokat a trolloktól."
+
+#~ msgid "They'll make interesting additions to my collection."
+#~ msgstr "Érdekes színfoltját képezik majd a gyűjteményemnek."
+
+#~ msgid ""
+#~ "Boy, you don't need to see it as an abomination. Just think of it as the "
+#~ "evolution of that poor useless beast into a powerful force that can serve "
+#~ "us."
+#~ msgstr ""
+#~ "Ne gyilkolászásnak lásd, fiú, hanem nézd csak: ezekből a nyomorult "
+#~ "hasznavehetetlen lényekből hatalmas erő válhat a mi szolgálatunkra."
+
+#~ msgid ""
+#~ "I wouldn't... Galas, think of it as the manner in which we can avoid "
+#~ "suffering the same fate at their hands."
+#~ msgstr ""
+#~ "Nem egészen... Galas, gondolj bele, mi történne velünk az ő kezükben! "
+#~ "Könyörtelenül legyilkolnának."
+
+#~ msgid "(blushes) Umm, Galas...don't you think you are exaggerating a bit?"
+#~ msgstr ""
+#~ "(elpirul) Hmmm, Galas... Nem gondolod, hogy egy kicsit túlértékelsz?"
+
+#~ msgid "(Trivial)"
+#~ msgstr "(Könnyű)"
+
+#~ msgid "(Nightmare)"
+#~ msgstr "(Rémálom)"
+
+#~ msgid "Initial porting from the 1.4 branch to 1.5.x"
+#~ msgstr "1.4-es verzióról 1.6-osra való igazítás"
+
+#~ msgid "Maintenance and release toolkit"
+#~ msgstr "Karbantartó- és kiadási csomag készítése  "
+
+#~ msgid "The Battle for Wesnoth project"
+#~ msgstr "Harc Wesnothért project"
+
+#~ msgid "Cartography Resources"
+#~ msgstr "Térképforrások"
+
+#~ msgid "Music tracks (non-specific)"
+#~ msgstr "Zenei betétek (nem specifikus)"
+
+#~ msgid ""
+#~ "The demons that were not crushed by the fortress' structures or by the "
+#~ "subsequent explosions, started to fall to the ground turning into ashes, "
+#~ "just like Elynia swore the last time she talked to Anlindë; for the "
+#~ "spells that kept them bound to our world lost their effect, as their "
+#~ "invoker was gone, and their source of energy, the Inferno, was cut "
+#~ "forever."
+#~ msgstr ""
+#~ "Azok a démonok, amelyek az erőd romjai alatt és az azt követő "
+#~ "robbanásokban nem pusztultak el, hamuvá porladtak, ahogy azt Elynia is "
+#~ "mondta Anlindënek címzett utolsó szavaival. Az őket e világhoz kötő "
+#~ "varázserő elveszett, az őket megidézők halálával a Pokol forrásaitól is "
+#~ "el lettek zárva."
+
+#~ msgid ""
+#~ "According to it, the Shaxthal creatures had the ability to reproduce by "
+#~ "themselves if their hive and artificial home should be eventually "
+#~ "destroyed, and that their intelligence would guide them to places with "
+#~ "abundance of water, to integrate with the existing lifeforms and evolve, "
+#~ "perhaps for good, or for bad. Nonetheless, we supposed that they would "
+#~ "impose no threat in such conditions, as they would have no master "
+#~ "commanding them to destroy and kill living beings. They would be as much "
+#~ "of a threat as other beasts, like wolves or tigers."
+#~ msgstr ""
+#~ "Ebben az is benne volt, hogy a saxtál kreatúrák sikeresen megoldották az "
+#~ "önreprodukció kérdését olyannyira, hogy ha a kaptáruk, s a mesterséges "
+#~ "otthonaik elpusztulnának, akkor egy vízben bővelkedő helyen képesek az "
+#~ "ottani létformákkal egyesülve azokat továbbfejleszteni jó vagy rossz "
+#~ "irányba is. Ennek ellenére feltételeztük, hogy jelenlegi képességeikkel, "
+#~ "egy élőlények kiirtását elrendelő parancsnok nélkül nem jelentenek "
+#~ "veszélyt a világra, legalábbis nem nagyobbat, mint például a tigrisek "
+#~ "vagy a farkasok."
+
+#~ msgid ""
+#~ "Erathan departed to his former home, wishing us all the best, as we, that "
+#~ "is Elynia, Mal Keshar and me, did not have much to do except wandering "
+#~ "around. And so we wandered. My people might remember me or not, but all "
+#~ "that matters to me is whether they are safe or not. And they were safe at "
+#~ "last."
+#~ msgstr ""
+#~ "Erathan visszatért korábbi otthonába, sok sikert kívánva utunkhoz, míg "
+#~ "mi, azaz Elynia, Mal Keshar és én, megkezdtük vándorlásunkat. Népem "
+#~ "emlékezetében megmaradok-e vagy sem, ez nem számít, nekem csak az a "
+#~ "fontos, hogy ők biztonságban vannak-e vagy sem. S végre úgy érzem, "
+#~ "biztonságban vannak."
+
+#~ msgid ""
+#~ "We did not have much to do except wandering around. And so we wandered. "
+#~ "My people might remember me or not, but all that matters to me is whether "
+#~ "they are safe or not. And they were safe at last."
+#~ msgstr ""
+#~ "Megkezdtük vándorlásunkat. Népem emlékezetében megmaradok-e vagy sem, ez "
+#~ "nem számít, nekem csak az a fontos, hogy ők biztonságban vannak-e vagy "
+#~ "sem. S végre úgy érzem, biztonságban vannak."
+
+#~ msgid ""
+#~ "Although the world won't recover its former greatness and beautifulness "
+#~ "in the short term, in the long term it will, as long as all of us put our "
+#~ "best efforts into making a shiny and thriving future for our descendants, "
+#~ "rebuilding what was destroyed by the greed of the men of Wesnoth, and "
+#~ "what was destroyed by the evilness of the followers of Chaos."
+#~ msgstr ""
+#~ "Habár a világnak hosszú időre lesz szüksége, hogy kiheverje a pusztulást, "
+#~ "s újra régi fényében és pompájában tündököljön, nekünk is sokáig kell még "
+#~ "harcolnunk azért, hogy egy ragyogó, prosperáló jövőt biztosíthassunk "
+#~ "leszármazottainknak újjáépítve azt, amit a wesnothi emberek gőgje és a "
+#~ "Káosz követőinek gonoszsága elpusztított."
+
+#~ msgid ""
+#~ "-- And so it ends, the history of the last forest elves. As Galas stated "
+#~ "in it, the Shaxthal integrated among the natural lifeforms, developing "
+#~ "their own means of reproduction and survival. This did not mean, however, "
+#~ "that their existence would be a menace no longer; their plaguing behavior "
+#~ "would convert them into foes very difficult to control. The elvish "
+#~ "society, meanwhile, was disintegrated by ideological differences within "
+#~ "it. The technological advancements that the living peoples of the Great "
+#~ "Continent achieved afterwards would be rejected by a minority of the "
+#~ "elves, who rebelled against their kinsmen causing great strife."
+#~ msgstr ""
+#~ "-- Így végződött az utolsó erdei tündék kálváriája. Galas állításával "
+#~ "egyezően a saxtálok beépültek a természeti élőlények közé, saját "
+#~ "önreprodukciós módszereket kifejlesztve. Ez nem jelenti azt, hogy "
+#~ "létezésük többé nem jelent veszélyt a környezetre. Önkényes viselkedésük "
+#~ "nyomán könnyen válhatnak nehezen leküzdhető ellenségekké. A tünde "
+#~ "társadalom időközben több ideológia mentén különálló részekre tagolódott. "
+#~ "A Nagy-Kontinensen élő fajok technikai fejlődését később egy tünde "
+#~ "kisebbség elutasította, s viszálykodásuk lázadásba torkollott."
+
+#~ msgid ""
+#~ "Strife that lasted for much time, until they established their own "
+#~ "territory in the Far North. This branch of the elvish civilization would "
+#~ "be eventually recognized as the Wild Ones of the North, in honor to their "
+#~ "ideology, which stated that technology could only harm nature and breed "
+#~ "generations of heartless people. The southern elves, in contrast, would "
+#~ "find a manner to join the natural and faerie world with technology."
+#~ msgstr ""
+#~ "A viszály sokáig elhúzódott, s a végén Távol-Északon alapítottak a "
+#~ "lázadók egy új államot. A tündéknek ez az ága Észak Vadjai néven került "
+#~ "be a köztudatba köszönhetően annak, hogy a tecnikai fejlődést káros "
+#~ "természetűnek bélyegezték, amely csak szívtelen nemzedékek sorát "
+#~ "produkálja. Ezzel szemben a déli tündék a technika, a természet és a "
+#~ "tündérvilág együttélését sikeresen valósították meg."
+
+#~ msgid ""
+#~ "The orcish tribes settled in the southmost part of the former lands of "
+#~ "Chaos, and aside from the ocassional feuds, they remained peaceful and "
+#~ "did not interfer with the restoration of the Continent. Most Aragwaithi "
+#~ "stayed in their northern country, but others migrated to populate the "
+#~ "northmost part of the aforementioned lands."
+#~ msgstr ""
+#~ "Az ork törzsek a Káosz Földjének legdélebbi területeire vonultak, s "
+#~ "telepedtek le, s alkalmi ellenségeskedésektől eltekintve békésen éltek, s "
+#~ "nem akadályozták a Kontinens újjáépítését. Az aragwaithok legnagyobb "
+#~ "része a helyén maradt, kis számban viszont felkerekedtek, s a fent "
+#~ "említett terület legészakabbi helyeit népesítették be."
+
+#~ msgid ""
+#~ "Galas, Elynia and Mal Keshar would never be seen again, except when a "
+#~ "town was desperately in need of help, and they would be close to it, "
+#~ "willing to help as anonymous heroes."
+#~ msgstr ""
+#~ "Elynia, Galas és Mal Keshar többé nem bukkant fel, bár néha városi "
+#~ "legendák szóltak ismeretlen hősökről, akik a város közelében járva "
+#~ "segítettek a szorongatott városiaknak."
+
+#~ msgid ""
+#~ "I stayed at home, and here you see what I've become. An old man with lots "
+#~ "of stories to tell. Ah, those were my times, but I'm too old for so many "
+#~ "adventures now. Yet, I'm glad to have personally witnessed the dawn of "
+#~ "this new era, by my presence on it, or by reading the journal of lord "
+#~ "Galas, whom I proudly served until the end of his fateful journey."
+#~ msgstr ""
+#~ "Én itthon maradtam, s láthatjátok, mivé váltam. Egy öreg mesemondóvá. Ah, "
+#~ "azok a régi szép idők, amikor még én is részese voltam a kalandoknak! "
+#~ "Igen, én is ott voltam ennek az új kornak a hajnalánál, nemcsak Galas úr "
+#~ "elbeszéléséből merítettem, hanem hűséggel szolgáltam őt ennek a kalandos "
+#~ "küldetésnek a legvégéig."
+
+#~ msgid ""
+#~ "Galas, Anlindë or Mal Keshar must reach the North-West border of the map"
+#~ msgstr "Galas, Anlindë vagy Mal Keshar eléri a térkép északnyugati csücskét"
+
+#~ msgid ""
+#~ "Arcane energy is what grants everything in our Universe the condition of "
+#~ "existence. It can be, however, channeled to be a powerful, hence "
+#~ "dangerous, weapon that can remove the life from the living, and grant the "
+#~ "life to the non-living."
+#~ msgstr ""
+#~ "A földöntúli energia éltet mindent az Univerzumban, ez az élet alapja. "
+#~ "Ahhoz, hogy áldásos erejét kifejthesse, csatornázni kell, különben "
+#~ "veszélyessé válik, fegyverré, amely elvonja az életerőt az élőktől, s az "
+#~ "életet egyfajta nemlétbe transzformálja."
+
+#~ msgid ""
+#~ "Before there was anything, the Darkness filled all our space. Then, Light "
+#~ "was born, starting a neverending fight between it, and the ancient "
+#~ "Darkness."
+#~ msgstr ""
+#~ "Kezdetben vala a semmi, a Sötétség töltötte ki a teret. Aztán "
+#~ "megszületett a Fény, s megkezdte örök időkig tartó harcát a Sötétség "
+#~ "ellen. S lőn világosság."
+
+#~ msgid ""
+#~ "To stop the conflict of Light and Darkness, a third power was created, "
+#~ "the Neutroume. It would separate Light and Darkness, and allow their "
+#~ "coexistence. However, the perfect balance brought by the Neutroume was "
+#~ "brief, as the Neutroume corrupted itself. This spawned the beings known "
+#~ "as 'daelums', 'daemons' or 'demons'."
+#~ msgstr ""
+#~ "A Világosság és a Sötétség konfliktusának megelőzésére egy harmadik erő "
+#~ "született, a Félhomály. Ez hivatott határt képezni a Világosság és a "
+#~ "Sötétség között, s biztosítani együttélésüket. A Félhomály által "
+#~ "biztosított tökéletes egyensúly rövid életűnek bizonyult, miután a "
+#~ "Félhomály önállósította magát, s megszülte a 'daelum', a 'daemon' vagy "
+#~ "'démon' névvel illetett lényeket."
+
+#~ msgid ""
+#~ "The demons controled most lifeforms with the power of the Neutroume. The "
+#~ "Neutroume could not be destroyed, however, until the Light and Darkness "
+#~ "were united in a single, powerful entity. The Union was born."
+#~ msgstr ""
+#~ "A Félhomály erejével a démonok uralmuk alá vonták a legtöbb élőlényt. A "
+#~ "Félhomályt nem lehetett elpusztítani mindaddig, amíg a Világosság és a "
+#~ "Sötétség össze nem fogott, s létre nem hozott egy nagyhatalmú entitást. "
+#~ "Megszületett az Egyesülés. "
+
+#~ msgid ""
+#~ "The Union was allowed to exist for enough time to defeat the Neutroume "
+#~ "and bind it to its own plane of existence, to its own prison, with the "
+#~ "demons. After that, for safety, the Union entity was dismantled and "
+#~ "separated into three abstract objects, the Body of the Union, the Globe "
+#~ "of Light and the Globe of Darkness."
+#~ msgstr ""
+#~ "Az Egyesülés mindaddig fennállt, míg a Félhomályt legyőzték, s "
+#~ "visszakényszerítették őt korábbi határai közé, saját kreatúrái, a démonok "
+#~ "felügyelete alá. Ezután a biztonság okán az entitás szétvált, s három "
+#~ "absztrakt objektummá alakult. Az Egyesülés Teste, a Világosság Köre és a "
+#~ "Sötétség Köre lett ez a három objektum. "
+
+#~ msgid ""
+#~ "Anyone capable of gathering the two globes together, would construct a "
+#~ "new Union entity. But this was made almost impossible by sending each "
+#~ "globe to distant, different places in the Cosmos. Yet, the original Body "
+#~ "of the Union was left, hidden in Irya, fourth planet of the Ardaan system."
+#~ msgstr ""
+#~ "Bárki, aki a két Kört összegyűjti, újjáépítheti az Egyesülés entitást. "
+#~ "Csakhogy ez szinte lehetetlen, mivel minden Kör messzire került, a "
+#~ "Kozmosz egy távoli zugába. Míg a Test maga rejtve maradt az Irdyán, az "
+#~ "Ardaan rendszer negyedik bolygóján."
+
+#~ msgid ""
+#~ "Two beings are going to be born, at some point of time close to the "
+#~ "awakening of Uria, the demonic matrix. One of them would have the Globe "
+#~ "of Darkness embedded into its spirit. The other would have the Light one "
+#~ "embedded."
+#~ msgstr ""
+#~ "Két lény születik egyidőben, közel az időponthoz, amikor Uria, a démoni "
+#~ "mátrix felébred. Egyikük lelkében hordozza a Sötétség Körét, míg másikuk "
+#~ "a Világosságét."
+
+#~ msgid ""
+#~ "When both beings join their spirits by the unbreakable link and bond, the "
+#~ "Globes will be joined too, spawning the power of the Union once again, to "
+#~ "be integrated into both beings. This occurs to the extent of their "
+#~ "material and mortal barriers."
+#~ msgstr ""
+#~ "Amikor ezen lények összefonódnak egy szétválaszthatatlan kapoccsal, a "
+#~ "lelkükben lévő Körök is egyesülnek, a lényeket megtölti az Egyesülés "
+#~ "ereje, s beköltözik mindkettőjükbe.  "
+
+#~ msgid ""
+#~ "They cannot merge their bodies, but they can merge and channel the powers "
+#~ "that they will be granted."
+#~ msgstr ""
+#~ "Nem egyesülhet a testük, de egyesíthetik, s irányíthatják az újonnan "
+#~ "született erejüket."
+
+#~ msgid ""
+#~ "Merging the arcane flows channeled through their powers would allow the "
+#~ "power of the Union to be valid every time, requiring the former action to "
+#~ "be taken in each oportunity."
+#~ msgstr ""
+#~ "Az irányított földöntúli áramlásokon túl az Egyesülés ereje bármikor "
+#~ "használható, az azt megelőző procedúra végrehajtásával."
+
+#~ msgid ""
+#~ "The death of any of those two beings, bound and linked by the "
+#~ "Unbreakable, will invalidate the Union and dismantle the power once "
+#~ "again. Their original bodies will be left, without the powers of Light or "
+#~ "Darkness that were granted to them originally. The Globes will be spawned "
+#~ "again, and the cycle will repeat."
+#~ msgstr ""
+#~ "A két lény bármelyikének halálával az Egyesülés is megszűnik, s ismét "
+#~ "szétválnak az erők. Csak az eredeti testek maradnak a Sötétség vagy a "
+#~ "Világosság ereje nélkül. A Körök új lelkekbe ágyazódnak, s a ciklus "
+#~ "kezdődik elölről."
+
+#~ msgid ""
+#~ "The prophecy of the Union was made by an ancient Argazar wiseman whose "
+#~ "name has not been yet confirmed, as he was never seen again."
+#~ msgstr ""
+#~ "Az Egyesülésről szóló jövendölést az ősi időkben fogalmazta meg egy "
+#~ "próféta, akinek nevét még nem ismerjük, mivel más híradás nem maradt róla."
+
+#~ msgid ""
+#~ "Uria: it is said that the Neutroume formed a single entity that "
+#~ "accumulated all of its intrinsic power. This was named Uria, the 'demonic "
+#~ "matrix' or 'Mother of all Demons'. Its structure and properties are not "
+#~ "known up to the time of this writing."
+#~ msgstr ""
+#~ "Uria: úgy hírlik, hogy a Félhomály létrehozott egy önálló entitást, "
+#~ "beletáplálva minden erejét. Ezt az entitást nevezték el Uriának, a "
+#~ "'démoni mátrixnak' vagy 'Minden Démonok Anyjának'. Ennek szerkezete és "
+#~ "tulajdonságai a jelen irások idejéig ismeretlenek maradtak. "
+
+#~ msgid ""
+#~ "The Body of the Union is the Light and Darkness' equivalent of the "
+#~ "Neutroume's Uria. Theoretically, if it were destroyed, all life in the "
+#~ "universe would end, or, vice versa, it is possible that the only way to "
+#~ "destroy the Body of the Union is to destroy all life in the universe."
+#~ msgstr ""
+#~ "Az Egyesülés Teste, azaz a Világosság és Sötétség együtt, ugyanazt "
+#~ "képviseli, mint a Félhomály Uriája. Ha előbbit elpusztítanák, minden élet "
+#~ "elpusztulna a világegyetemben és viszont; az egyetlen út az Egyesülés "
+#~ "Testének elpusztítására a világegyetemben található minden élet "
+#~ "elpusztítása. "
+
+#~ msgid "Crystal Glyph: The Prophecy of the Union"
+#~ msgstr "Rúnakristály: Jövendölés az Egyesülésről"
+
+#~ msgid ""
+#~ "Two beings are going to be born, at some point in time close to the "
+#~ "awakening of Uria, the demonic matrix. One of them will have the Globe of "
+#~ "Darkness embedded into its spirit, the other will have the Globe of Light."
+#~ msgstr ""
+#~ "Két lény születik egyidőben, közel az időponthoz, amikor Uria, a démoni "
+#~ "mátrix felébred. Egyikük lelkében hordozza a Sötétség Körét, míg másikuk "
+#~ "a Világosságét."
+
+#~ msgid ""
+#~ "When both beings join their spirits by the unbreakable link and bound, "
+#~ "the Globes will be joined too, spawning the power of the Union once "
+#~ "again, to be integrated into both beings. This, to the extent of their "
+#~ "material and mortal barriers."
+#~ msgstr ""
+#~ "Amikor ezen lények összefonódnak egy szétválaszthatatlan kapoccsal, a "
+#~ "lelkükben lévő Körök is egyesülnek, s mindkettőjük feltöltődik az "
+#~ "újjászülető Egyesülés energiájával. S ez mindaddig eltölti őket, míg "
+#~ "fizikai korlátaik vagy a halandóság miatt meg nem szakad a kapocs.  "
+
+#~ msgid "I see then, that I could not convince you of the opposite now."
+#~ msgstr "Úgy látom, hogy nem tudlak meggyőzni az ellenkezőjéről."
+
+#~ msgid "Dream of that!"
+#~ msgstr "Ne álmodozz, haver!"
+
+#~ msgid "Stup..."
+#~ msgstr "Osto..."
+
+#~ msgid "Stu..."
+#~ msgstr "Ost..."
+
+#~ msgid "I wanted to say that last part as well..."
+#~ msgstr "Én is ezzel akartam befejezni a mondatomat..."
+
+#~ msgid "Well, then..."
+#~ msgstr "Akkor rendben van."
+
+#~ msgid "Is it that you don't count me in?"
+#~ msgstr "Rám ugye nem gondoltál?"
+
+#~ msgid "I am not telling you anything about it..."
+#~ msgstr "Egy szót sem fogtok belőlem kihúzni..."
+
+#~ msgid "And so, it has begun."
+#~ msgstr "És így elkezdődött."
+
+#~ msgid "You may have a point there, perhaps."
+#~ msgstr "Azt hiszem, igazad van, talán."
+
+#~ msgid ""
+#~ "Your troops will not available for recalling or recruiting after the "
+#~ "first turn is over, so you should choose your units carefully and try to "
+#~ "keep them alive until the end of the mission."
+#~ msgstr ""
+#~ "Az első kör után nem toborozhatsz illetve hívhatsz vissza több egységet, "
+#~ "tehát előrelátóan válaszd meg a kíséretedet, s próbáld meg őket életben "
+#~ "tartani a küldetés végéig."
+
+#~ msgid "This potion can only be used by living beings. Let other take it."
+#~ msgstr ""
+#~ "A butykos tartalma csak az élő egységnek használ. Keress megfelelő "
+#~ "egységet!"
+
+#~ msgid "En garde, elf!"
+#~ msgstr "En garde, tünde!"
+
+#~ msgid "So many have failed to do that..."
+#~ msgstr "Sokan vallottak már kudarcot az ilyen kísérletekkel..."
+
+#~ msgid "Well, perhaps they were assimilated already."
+#~ msgstr "Nos, lehet, hogy már meg is tették."
+
+#~ msgid "What would it be?"
+#~ msgstr "S mi lenne az?"
+
+#~ msgid "So we'll do."
+#~ msgstr "Meglesz!"
+
+#~ msgid ""
+#~ "After hours of investigating the design plains, I could produce an "
+#~ "enhanced prototype with an antigravitational engine that"
+#~ msgstr ""
+#~ "A tervvázlatok áttanulmányozása után egy antigravitációs eszközzel "
+#~ "sikerült egy fejlett prototípust előállítanom, ami"
+
+#~ msgid "Nooo, my emissary!!! I will have my revenge!!!"
+#~ msgstr "Neeee! A teremtményeim! Bosszút állok!!!"
+
+#~ msgid ""
+#~ "Of course, if this is what you want. I think we could still do some "
+#~ "cleaning. It is up to us to restore what was destroyed by the Wesnothians "
+#~ "and the Empire of Chaos."
+#~ msgstr ""
+#~ "Örömmel vesszük, ha így határozol. Azt hiszem, még akad tennivalónk. "
+#~ "Kemény munka lesz helyrehozni, amit a wesnothiak és a Káosz Birodalma "
+#~ "tönkretettek."
+
+#~ msgid ""
+#~ "Something still disturbs me, though. We set Argan free from his "
+#~ "suffering, and so we did with Lédinor. Since Elyssa was a demon and the "
+#~ "link with Inferno has been cut, she is probably gone as well. However, "
+#~ "there are certain people who were servants to Yechnagoth willingly; the "
+#~ "Iron Council. We encountered Mal Hekuba, but he is still hiding somewhere "
+#~ "in this world... with the other two members of this triad."
+#~ msgstr ""
+#~ "Valami azért még zavar engem. Megszabadítottuk Argant a szenvedéseitől, "
+#~ "akárcsak Lédinort. Mivel Elyssa is egy démon volt, s elvágtuk a Pokolhoz "
+#~ "kötődő szálakat, alighanem őt is. Csakhogy voltak Yecnagothnak tudatos "
+#~ "szolgái is: a Kardtestvérek Tanácsa. Találkoztunk Mal Hekubával, de ő még "
+#~ "mindig a mi világunkban rejtőzködik valahol... együtt a triumvirátus "
+#~ "másik két tagjával."
+
+#~ msgid ""
+#~ "Indeed. However, now that Yechnagoth is gone and the Chaos Empire is "
+#~ "being teared apart, what great harm can they do? Sure, they are "
+#~ "necromancers, powerful ones, but I'm confident that with time we shall "
+#~ "find them and put an end to their pointless wanderings."
+#~ msgstr ""
+#~ "Valóban, de most, hogy Yecnagoth kimúlt és a Káosz Birodalma darabokra "
+#~ "esett, nem keverhetnek túl sok bajt. Igaz, hogy holtidézők, s hatalmasok, "
+#~ "de hiszem, hogy idővel rájuk találunk, s megszabadítjuk őket a végtelen "
+#~ "bolyongás szenvedéseitől."
+
+#~ msgid "I certainly hope so."
+#~ msgstr "Én is erősen remélem."
+
+#~ msgid "That is exactly what I had in mind, Malin."
+#~ msgstr "Én is pont erre gondoltam, Malin."
+
+#~ msgid "What happens?"
+#~ msgstr "Mi az ördög...?"
+
+#~ msgid "That name... I had not heard that name in too many years already."
+#~ msgstr "Ez a név... századok óta nem hallottam már ezt a nevet."
+
+#~ msgid "Thanks, my lord."
+#~ msgstr "Köszönöm uram."
+
+#~ msgid "I think so."
+#~ msgstr "Egyetértek."
+
+#~ msgid "I was sure that would be it."
+#~ msgstr "Biztos voltam benne, hogy ezt tervezted."
+
+#~ msgid "Prose-doctoring and continuity"
+#~ msgstr "Forgatókönyv, szöveg gondozása"
+
+#~ msgid ""
+#~ "Yes, Galas. Although Eloh herself did not vanquish this demon lord, she "
+#~ "did send two warriors for that purpose. The proof is that they came from "
+#~ "nowhere and went to nowhere."
+#~ msgstr ""
+#~ "Igen Galas. Habár Eloh maga nem jött el, de két harcost küldött, hogy "
+#~ "legyőzzék a démonok urát. Bizonyítja ezt az is, hogy a semmiből jöttek, s "
+#~ "a semmibe is távoztak."
+
+#~ msgid "The Ring of Regeneration may only be used by living creatures."
+#~ msgstr "A Regenerálódás Gyűrűjét csak élő egység viselheti."
+
+#~ msgid "(Wesnoth 1.5.8 is strongly recommended)"
+#~ msgstr "(Harc Wesnothért 1.5.8 verzió erősen ajánlott)"
+
+#~ msgid "[IftU] "
+#~ msgstr "[RI]"
+
+#, fuzzy
+#~ msgid "Unless we toast you first!"
+#~ msgstr "Kétlem, mi hamarabb kibelezünk titeket! Támadás!"
+
+#~ msgid "udesc^Drone"
+#~ msgstr "Robot"
+
+#, fuzzy
+#~ msgid "Forgive me, Master..."
+#~ msgstr "Ahhh! Mester segíts!"
+
+#, fuzzy
+#~ msgid "Elynia? What are you doing?"
+#~ msgstr "Tallin, mit csinálsz?"
+
+#, fuzzy
+#~ msgid "The Final Gate"
+#~ msgstr "Kapuőr"
+
+#, fuzzy
+#~ msgid "Lair of the Shadow Master"
+#~ msgstr "Itt hozzuk, Mester."
+
+#, fuzzy
+#~ msgid "Elynia, what say you?"
+#~ msgstr "Miről beszélsz?"
+
+#~ msgid ""
+#~ "It is written that you, necromancer, killed many dwarven scouts centuries "
+#~ "ago, but I guess I can tolerate it if you are by the side of the elves... "
+#~ "but, you are not the Quenoth elves then?"
+#~ msgstr ""
+#~ "Információim szerint te, holtidéző sok törp felderítőt öltél meg a "
+#~ "régebbi századokban, de a mostani tetteiddel kiérdemelted az "
+#~ "elnézésemet... tehát nem a quenothi tündék közül vagytok?"
+
+#~ msgid "The what?"
+#~ msgstr "Milyen tündék?"
+
+#~ msgid ""
+#~ "I think I know what happens. King, your fellow dwarves told us these "
+#~ "Quenoth elves came from the desert, is that true?"
+#~ msgstr ""
+#~ "Azt hiszem, tudom, mi történt. Királyom, az alattvalóid is emlegették "
+#~ "ezeket a tündéket, akik ugye a sivatagból érkeztek?"
+
+#~ msgid "Yes, indeed, but then where are you from?"
+#~ msgstr "Igen onnan, de akkor ti kik is vagytok?"
+
+#~ msgid ""
+#~ "We come from a valley located east from here, surrounded by the far, "
+#~ "unknown lands that we call the 'outsides'. Your people must know them as "
+#~ "the 'unknown east'. In an elven war after the Fall, the survivors "
+#~ "departed ways. One group found the Valley of Elynia, where we come from, "
+#~ "our ancestors. The other group must be these desert elves you spoke us of."
+#~ msgstr ""
+#~ "Mi egy innen messze keletre fekvő völgyből érkeztünk, amit ismeretlen "
+#~ "földek határolnak, ezeket egyszerűen csak külvilágnak neveztük. Ti "
+#~ "nyilván úgy hívjátok ezt a vidéket, hogy 'az ismeretlen kelet'. A "
+#~ "Kataklizmát követő polgárháborút követően a tündék is szétszakadtak. Egy "
+#~ "csoportjuk rátalált az Elynia-völgyre, ahonnan mi jöttünk. A másik "
+#~ "csoport lehet a sivatagi tündéké, akiket említettél."
+
+#~ msgid "I'll tell you, but I wonder why you departed ways."
+#~ msgstr "Elmondhatom, de miért is szakadtatok el egymástól?"
+
+#~ msgid ""
+#~ "It is something we have always wondered for years. Possibly our ancestors "
+#~ "decided to divide and explore the lands in two different groups, and then "
+#~ "got lost. That also leaves the possibility that the other group that went "
+#~ "to the desert was also divided, and that just a small part of them were "
+#~ "the Quenoth elves that you met."
+#~ msgstr ""
+#~ "Ezen mi is sokat tanakodtunk. Talán az őseink döntöttek úgy, hogy két "
+#~ "különböző csoportban, két különböző úton próbálkoznak a túléléssel, s "
+#~ "később elvesztették egymással a kapcsolatot. Fennáll a lehetőség, hogy a "
+#~ "sivatagba vonult csapatról vált le egy kis közösség, s ezek voltak azok a "
+#~ "quenothi tündék, akikkel találkoztatok."
+
+#~ msgid "How could they have survived in the desert?"
+#~ msgstr "Hogyan voltak képesek túlélni a sivatagban?"
+
+#~ msgid ""
+#~ "These days, we have sent scouts and they report that life has struggled "
+#~ "to flourish in the desert, and that oasis are now forests. But back then, "
+#~ "nothing of that existed, it was just plain desert."
+#~ msgstr ""
+#~ "Nemrégiben felderítőket küldtünk ki, ők jelentették, hogy az élet magára "
+#~ "talált a pusztulás után, s a sivatagok kezdenek visszaszorulni, s az "
+#~ "oázisok környékén újra erdő zöldellik. De visszatérve, akkoriban ez nem "
+#~ "így volt, csak a sívó homok terült el köröskörül."
+
+#~ msgid ""
+#~ "We were losing a war against troll invaders some centuries ago. Then, the "
+#~ "desert elves appeared, confused and somewhat ill from their journey "
+#~ "across the sands when their former home was destroyed by rocks falling "
+#~ "from the skies."
+#~ msgstr ""
+#~ "Néhány századdal ezelőtt óriási háborút vívtunk a betört trollok ellen. "
+#~ "Vesztésre álltunk, amikor megjelentek a sivatagi tündék, eléggé "
+#~ "elcsigázottak voltak a sivatagi vonulásuktól, amire az otthonukat "
+#~ "megsemmisítő meteoriteső miatt kényszerültek"
+
+#~ msgid ""
+#~ "They helped us with the trolls for no reason at all, and shortly managed "
+#~ "to kill the troll chieftain, causing the troll's despair, confusion and "
+#~ "subsequent defeat."
+#~ msgstr ""
+#~ "Önzetlenül a segítségünkre siettek, hamarosan megölték magát a troll "
+#~ "fővezért is, amivel pánikba sodorták a trollokat, azok összezavarodtak, "
+#~ "így később fényes diadalt arattunk felettük. "
+
+#~ msgid ""
+#~ "In comparison to you, their appearance was drastically different. Their "
+#~ "skin's tone was of a darker grayish brown, and their clothes, weapons and "
+#~ "habits were adapted for the harsh life in the desert, unlike you, forest "
+#~ "inhabitants."
+#~ msgstr ""
+#~ "Ha összehasonlítalak titeket, ők egészen másmilyenek voltak. Az ő bőrük "
+#~ "sötétebb, szürkésbarna volt, s ruházatuk, fegyvereik, s viselkedésük is "
+#~ "nyersebb volt, alkalmazkodott a zord sivataghoz, szemben veletek "
+#~ "erdőlakókkal."
+
+#~ msgid ""
+#~ "Their leader, Kaleh, told us that they were looking for a new home in the "
+#~ "far North, that supposedly their god had reserved for them. However, the "
+#~ "dwarf we sent with them to the northern exit tunnels returned some years "
+#~ "later with interesting news about that expedition."
+#~ msgstr ""
+#~ "Vezetőjük, Kaleh azt mondta, hogy egy új otthont keresnek messze Északon, "
+#~ "amit állítólag az istenük ígért nekik. Kalauzként egy törpöt adtunk "
+#~ "melléjük, ő később nagyon érdekes dolgokat mesélt, amikor évek múlva "
+#~ "visszatért hozzánk."
+
+#~ msgid "What news?"
+#~ msgstr "Miféle dolgokat?"
+
+#~ msgid ""
+#~ "After escaping from a flood in the northern caves, they were surrounded "
+#~ "by humans, the humans that killed many of our scouts for no reason at all."
+#~ msgstr ""
+#~ "Miután sikeresen kimenekültek az északi tárnákat elöntő vízár elől, "
+#~ "emberek zárták őket körbe, emberek, akik minden ok nélkül megölték számos "
+#~ "felderítőnket."
+
+#~ msgid ""
+#~ "They got themselves in the ocean's shore for rescuing merfolk, that were "
+#~ "going to be executed by the evil humans. Then, their goddess appeared and "
+#~ "turned some of them against their leader. Later, it was proven that she, "
+#~ "Eloh, was actually a fake."
+#~ msgstr ""
+#~ "Az Óceán partján sellőket szabadítottak ki, akiket a gonosz emberek fel "
+#~ "akartak áldozni. Aztán megjelent az istenük, s néhányan fellázadtak a "
+#~ "vezetőjük ellen. Később kiderült, hogy ez az isten, Eloh  csak egy csaló "
+#~ "volt."
+
+#~ msgid ""
+#~ "The merfolk led them to an isle in the ocean, Zocthanol, were they had "
+#~ "their final fight against the fake goddess. It turned out to be "
+#~ "'Yechnagoth', the Eater of Souls. Some weird thing with enough power to "
+#~ "create illusions, raid minds and corrupt souls from its safe lair in that "
+#~ "isle. Its effects almost had effect on us, underground inhabitants, but "
+#~ "since we were smarter and stopped sending scouts to the surface, we "
+#~ "escaped to its evil for enough time until your kinsmen succeeded and "
+#~ "defeated it."
+#~ msgstr ""
+#~ "A sellők elvitték őket egy óceánban fekvő szigetre, amit Zocthanolnak "
+#~ "hívtak, ahol végleg leszámoltak a hamis istennel. Ekkor derült ki, hogy ő "
+#~ "valójában 'Yecnagoth', a Lélekölő volt. Egy természetfeletti "
+#~ "hátborzongató valami, ami képes volt látomásokat előidézni, az elmét "
+#~ "befolyásolni, s uralkodni mások akarata felett a maga biztonságos kis "
+#~ "bunkeréből. Még minket, barlanglakókat is a hatása alá vont volna, de még "
+#~ "időben beszüntettük a felszíni kalandozásainkat, s így elkerültük a "
+#~ "nekünk szánt sorsot. Aztán a sivatagi tündék véget vetettek a "
+#~ "garázdálkodásának."
+
+#~ msgid ""
+#~ "However, the southern lands were being slowly taken over by evil humans "
+#~ "again. A conflict between the south humans and the northern lands was "
+#~ "started, and we, being in crossfire, ceased any scouting south from "
+#~ "Knalga. However, the Northern lands have thrived, and although they are "
+#~ "now menaced by the threat of war from the evil humans, they could "
+#~ "certainly serve you as temporary home, if that is what you are seeking. A "
+#~ "new home?"
+#~ msgstr ""
+#~ "Csakhogy a déli területeken újra megjelentek a gonosz emberek. Ahogy a "
+#~ "konfliktus kirobbant a déli emberek és az északiak között, két tűz közé "
+#~ "kerültünk, s beszüntettük a Knalgától délre eső területek kutatását. "
+#~ "Habár az északi területek virágoznak, s ha szembe kell is nézzenek a "
+#~ "gonosz déliekkel vívott háború veszélyével, ideiglenesen otthonul "
+#~ "szolgálhatnak nektek, ha ezt kerestek, egy új otthont magatoknak."
+
+#~ msgid ""
+#~ "Partly. We are glad to hear that good news, but no lands will survive to "
+#~ "what will happen next if the evil is not stopped. Your men already saw "
+#~ "what forces are supporting the humans. Not even the power of undead..."
+#~ msgstr ""
+#~ "Részben igen. Örülünk ezeknek a jó híreknek, de aligha lesz olyan hely, "
+#~ "ahol túlélhetnénk az elkövetkezőket, ha nem állítjuk meg a gonoszt. Ti "
+#~ "már láttátok, hogy milyen erők segítik az embereket. Még az élőholtak "
+#~ "ereje is kevés ellenük..."
+
+#~ msgid " *cough*"
+#~ msgstr " *Khm*"
+
+#~ msgid ""
+#~ "... could stop them, not even temporarily. We already fighted one of "
+#~ "their more powerful battle soldiers, the Mechanical Goliath, that is how "
+#~ "we call it."
+#~ msgstr ""
+#~ "... nem képesek megállítani őket ez idő szerint. Már harcoltunk egy "
+#~ "nagyon erős harcirobotjukkal, vagy ahogy elneveztük, a Mechanikus "
+#~ "Góliáttal."
+
+#~ msgid ""
+#~ "I am aware of those giant droids, actually, because we built some of "
+#~ "them..."
+#~ msgstr "Ismerem azokat az óriás robotokat, hiszen mi építettük őket..."
+
+#~ msgid "You DID?"
+#~ msgstr "TI építettétek?"
+
+#~ msgid "You did?"
+#~ msgstr "Ti épít..."
+
+#~ msgid "Really?"
+#~ msgstr "Valóban?"
+
+#~ msgid ""
+#~ "Let's just say that we dwarves are technologically more advanced than you "
+#~ "surface people. *laughs*"
+#~ msgstr ""
+#~ "Azt kell mondjam, hogy nekünk, törpöknek sokkal fejlettebb a technikánk, "
+#~ "mint nektek, felszínen lakóknak. *nevet*"
+
+#~ msgid ""
+#~ "I see, but you don't have the power of the forces of hell itself by your "
+#~ "side, do you?"
+#~ msgstr "Lehet, de a pokoli teremtmények erejével szemben még ez is kevés."
+
+#~ msgid "No, and that worries us."
+#~ msgstr "Sajnos azt hiszem, igazad van."
+
+#~ msgid "We went here to solve our lack of force, actually."
+#~ msgstr "Mi tulajdonképpen az erőink kiegészítése miatt jöttünk ide."
+
+#~ msgid "We cannot..."
+#~ msgstr "Mi nem..."
+
+#~ msgid "Not hiring dwarves, no no. Anlindë could explain it better."
+#~ msgstr ""
+#~ "Nem törp zsoldosokra van szükségünk. Anlindë jobban el tudja magyarázni."
+
+#~ msgid ""
+#~ "Interesting. Althurin's master actually had a possibly related story of "
+#~ "his wanderings in the deepest caves. He did not go too deep because of "
+#~ "the creeps that were roaming there, but went deep enough to tell us some "
+#~ "facts. Unfortunately, though, that happened a century or two ago, so the "
+#~ "only dwarf left who could tell you the details, with a relative level of "
+#~ "reliability, would be his apprentice, Althurin himself, our current best "
+#~ "runemaster. Althurin?"
+#~ msgstr ""
+#~ "Érdekes. Althurin mestere valami hasonló történetet regélt, mikor a "
+#~ "mélyenfekvő barlangokba merészkedett. Nem ment túl mélyre a mindenféle "
+#~ "leselkedő szörnyeteg miatt, de ahhoz elég mélyre hatolt, hogy néhány "
+#~ "dolgot megtudjon. Igaz, hogy ennek már van vagy kétszáz éve is, úgyhogy "
+#~ "erről a kalandról csak fenntartásokkal beszélhetünk, s csak a tanonca tud "
+#~ "részletekkel is szolgálni, vagyis maga Althurin, jelenlegi legjobb "
+#~ "rúnamesterünk. Althurin?"
+
+#~ msgid "Yes, my lord?"
+#~ msgstr "Igen uram?"
+
+#~ msgid "Tell us."
+#~ msgstr "Beszélj!"
+
+#~ msgid ""
+#~ "Well, my master shared this with me just some months before his death, "
+#~ "for he was too old for living any longer, but I think I remember every "
+#~ "detail of what he told me."
+#~ msgstr ""
+#~ "Tehát a mesterem pár hónappal a halála előtt mesélt nekem a kalandjairól, "
+#~ "mivel már érezte, hogy kitelt az ideje. Igyekszem a szavait minél "
+#~ "pontosabban visszaadni."
+
+#~ msgid ""
+#~ "He was just a young dwarf when he went to explore the depths of our "
+#~ "territory, tunnels never explored before. He was seeking rare metals that "
+#~ "could serve for crafting powerful and sophisticated weapons, and, well, "
+#~ "he was young, again, so he was a little fool that purposefully went to "
+#~ "the unknown parts of the underground in a madness attack."
+#~ msgstr ""
+#~ "Még fiatal törp korában indult el felfedezni a területünk mélységi "
+#~ "övezeteit, a feltáratlan járatokat. Ritka fémeket keresett, amivel még "
+#~ "hatalmasabb és kifinomultabb fegyvereket készíthetett volna. Igen, szóval "
+#~ "fiatal volt és kissé bolond is, hogy szántszándékkal ismeretlen helyekre "
+#~ "merészkedett egy gyenge pillanatában."
+
+#~ msgid "People when young often do foolish things. I know that very well."
+#~ msgstr "A fiatalok gyakran tesznek őrültségeket. Nagyon jól tudom."
+
+#~ msgid "Well, he must have been a real fool to go to such place alone."
+#~ msgstr "Tényleg teljesen őrült volt, hogy odament, s ráadásul egyedül."
+
+#~ msgid ""
+#~ "Possibly because no sane dwarf would dare go to such parts, be it alone "
+#~ "or accompanied."
+#~ msgstr "Talán mert egyetlen más törp sem volt hajlandó elkísérni őt."
+
+#~ msgid ""
+#~ "However, with his mastery of runecrafting, he could detect a strong "
+#~ "presence even deeper by those parts. The presence of what he called 'the "
+#~ "Source of Light itself'."
+#~ msgstr ""
+#~ "Mindamellett a mágiaészlelő készségével erős mágikus kisugárzást észlelt "
+#~ "a mélységből. Valami olyannak a jelenlétét, amit csak úgy hívott, hogy 'a "
+#~ "Fény Forrása maga'."
+
+#~ msgid "Certainly."
+#~ msgstr "Bizonyára."
+
+#~ msgid ""
+#~ "That's what we came for. To find her. If you don't mind, Dwarf-lord, we "
+#~ "shall go there."
+#~ msgstr ""
+#~ "Igen, ezért vagyunk itt. Hogy megtaláljuk Őt. Ha nincs ellenedre törp "
+#~ "uram, mi lemegyünk oda. "
+
+#~ msgid "We WHAT?!"
+#~ msgstr "HOVA megyünk?"
+
+#~ msgid "We shall descend there, Galas."
+#~ msgstr "Oda le a mélybe Galas."
+
+#~ msgid "But, but..."
+#~ msgstr "De, de..."
+
+#~ msgid ""
+#~ "If you let me say so, lads and lady, that would be suicidal. As Althurin "
+#~ "said, only a true fool would risk death going to that place. Death or "
+#~ "something worse..."
+#~ msgstr ""
+#~ "Ha közbeszólhatok... ez öngyilkosság. Ahogy Althurin mondta, csak egy "
+#~ "őrült vetemedne arra, hogy lemerészkedjen oda. A halál vagy valami még "
+#~ "rosszabb vár a behatolókra..."
+
+#~ msgid ""
+#~ "Fools, indeed, but if you don't have any better clue of how to vanquish "
+#~ "the evil once and for the rest of eternity..."
+#~ msgstr ""
+#~ "Őrült, lehet... de ha semmi más esély nincs a gonoszok végleges "
+#~ "megsemmisítésére..."
+
+#~ msgid ""
+#~ "We cannot just sit down here and await our death like burden beasts. We "
+#~ "must find a way to fight, and then fight. And having half the power of "
+#~ "the Union would be the way..."
+#~ msgstr ""
+#~ "Nem várhatunk ölbetett kézzel, amíg birkamódra leölnek minket. Megfelelő "
+#~ "fegyvert kell találnunk a harchoz, aztán pedig harcolnunk kell. S az "
+#~ "Egyesülés erejének fele lehet ez a fegyver..."
+
+#~ msgid "The Union? Nobody can possibly control it..."
+#~ msgstr "Az Egyesülés? Senki nem képes irányítani..."
+
+#~ msgid ""
+#~ "Our saviors did. The union of the powers of Darkness and Light defeated "
+#~ "the evil once, and I have faith in that it shall do it again if we can "
+#~ "summon it. But we cannot, directly at least. Finding the Lady of Light "
+#~ "would be the first step. The second would be finding the Master of "
+#~ "Darkness, but if Mal Keshar's is right, we possibly won't find it here. "
+#~ "It must be somewhere else, captured, trapped, or otherwise. We being "
+#~ "here, it might be our only chance to complete the first step."
+#~ msgstr ""
+#~ "A mi héroszaink egyszer már megtették. A Sötétség és a Világosság "
+#~ "egyesített erejével már megsemmisítették egyszer a gonoszt, s én hiszek "
+#~ "abban, hogy ez újra sikerül, ha megtaláljuk őket. Ha meg tudjuk találni "
+#~ "őket. Először a Világosság Úrnőjét kell meglelnünk. Aztán nyomára kell "
+#~ "bukkannunk a Sötétség Urának is, bár ha Mal Kesharnak van igaza, akkor őt "
+#~ "aligha találjuk meg. Valahol másutt kell lennie, fogságban, csapdába "
+#~ "esve, valahol. Most itt esélyünk van megtenni az első lépést."
+
+#~ msgid "Before the evil invades Knalga!"
+#~ msgstr "Mielőtt a gonoszok elözönlik Knalgát!"
+
+#~ msgid ""
+#~ "Yes, indeed, and that worries me. *sigh* I guess I could follow your "
+#~ "advice, fellows. Your race has already proven to be heroic and foolish "
+#~ "enough to achieve great deeds."
+#~ msgstr ""
+#~ "Igen, ez valóban fenyeget. *sóhajt* Azt hiszem, megfogadom a tanácsotokat "
+#~ "tündék. Már bebizonyítottátok, hogy kellő hősiesség és őrültség van "
+#~ "bennetek, hogy nagy tetteket hajtsatok végre."
+
+#~ msgid ""
+#~ "Um... but it will be extremely dangerous if what Althurin says is true."
+#~ msgstr ""
+#~ "Hmmm... de mindenképpen életveszélyes az a hely, ha igaz, amit Althurin "
+#~ "mond."
+
+#~ msgid ""
+#~ "Althurin, you are middle-aged, unlike your master when he risked his "
+#~ "life. What motivates you to do that?"
+#~ msgstr ""
+#~ "Althurin elment az eszed? A te korodban? A mesterednek legalább a "
+#~ "fiatalkori hebehurgyaság lehet a mentsége. De te mivel magyarázod ezt a "
+#~ "nekibuzdulást?"
+
+#~ msgid ""
+#~ "I would feel certainly disappointed and decepcionated of myself if I got "
+#~ "an apprentice who I could not tell any of my adventures because I "
+#~ "wouldn't have any to tell. I do not want to grow old, die, and have done "
+#~ "nothing 'risky' like what my master did. I know it might sound foolish, "
+#~ "but..."
+#~ msgstr ""
+#~ "Még nem vagyok öreg, s a tanítványaim szemében bizonyára csalódást "
+#~ "keltene, ha nem tudnék a kalandjaimról mesélni, mivel nem lenne miről. "
+#~ "Nem akarok megöregedni és meghalni úgy, hogy semmi 'kalandos' dologban "
+#~ "nem vettem részt, olyanban, amilyenben a mesterem részt vett. Lehet, hogy "
+#~ "őrültségnek hangzik, de... "
+
+#~ msgid ""
+#~ "Fair enough. You can go. Be careful, and listen to Althurin's advice. He "
+#~ "has proved to be a wise runecrafter. I cannot judge by myself whether he "
+#~ "is wiser than his master or not, but I think he will guide you so that "
+#~ "you don't suffer the foul destiny that might have suffered any other "
+#~ "adventurer that wandered there."
+#~ msgstr ""
+#~ "Értem. Elmehetsz velük. Legyetek óvatosak, s hallgassatok Althurinra. "
+#~ "Sokszor bizonyította már bölcsességét. Azt ugyan nem tudom megítélni, "
+#~ "hogy bölcsebb-e a mesterénél, de azt hiszem az ő vezetése mellett sokkal "
+#~ "kevésbé teszitek ki olyan veszélyeknek magatokat, mint a vezető nélküli "
+#~ "kalandorok."
+
+#~ msgid "This is going to be fun..."
+#~ msgstr "Izgalmasnak ígérkezik..."
+
+#~ msgid "Elvish Horseman"
+#~ msgstr "Tünde lovas"
+
+#, fuzzy
+#~ msgid "Bear"
+#~ msgstr "Medve"
+
+#, fuzzy
+#~ msgid ""
+#~ "Adult bears are known for going their own way; most bears would sooner "
+#~ "flee a melee than throw themselves at risk. Some, though, for whatever "
+#~ "reason, choose not to run. These bears are a terrifying sight to behold. "
+#~ "An adult bear is a mass of muscle, claw, fur, and fury of almost "
+#~ "unrivalled proportions: even the most skilled of warriors will not look "
+#~ "lightly on the bulk of an angry, advancing bear."
+#~ msgstr ""
+#~ "A felnőtt medvék ismertek arról, hogy a saját útjukat járják; a legtöbb "
+#~ "medve inkább elmenekül a közelharc elől, minthogy kockáztassa a bundáját. "
+#~ "Van azonban néhány, ami valamilyen okból nem futamodik meg. Ezek a medvék "
+#~ "rettentő látványt nyújtanak. Egy felnőtt medve izom, karmok, bunda, és "
+#~ "düh mérhetetlen tömegű keveréke: még a legképzettebb harcosok sem "
+#~ "szemlélnek nyugodtan egy dühös, közeledő medvét."
+
+#, fuzzy
+#~ msgid "bear-hug"
+#~ msgstr "Medve"
+
+#, fuzzy
+#~ msgid "Giant Boar"
+#~ msgstr "Óriás patkány"
