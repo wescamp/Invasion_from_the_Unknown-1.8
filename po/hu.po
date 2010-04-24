@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-04-19 18:06+0200\n"
-"PO-Revision-Date: 2010-04-07 10:51+0100\n"
+"PO-Revision-Date: 2010-04-22 10:19+0100\n"
 "Last-Translator: Kelemen Zoltán <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -35,9 +35,8 @@ msgid "Version:"
 msgstr "Verzió:"
 
 #: Invasion_from_the_Unknown/_main.cfg:64
-#, fuzzy
 msgid "(requires Battle for Wesnoth 1.7.7 or later, or Wesnoth 1.8.x)"
-msgstr "(Harc Wesnothért 1.7.7 és későbbi verziókhoz)"
+msgstr "(Harc Wesnothért 1.7.7 és későbbi verziókhoz illetve 1.8.x verziókhoz)"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:70
@@ -10348,15 +10347,14 @@ msgstr ""
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:475
-#, fuzzy
 msgid ""
 "The homeworld of these creatures, which we called 'Inferno' in my time, is "
 "exactly that - they are the spawn of a greater creature, Uria. We do not "
 "know much of her, however."
 msgstr ""
 "Az a világ, ahonnan ezek a teremtmények jönnek, ahogy az én időmben "
-"neveztük, a Pokol, az pont ilyen. Egy nagyobb teremtés, Uria utódai ezek a "
-"teremtmények. Uriáról nem sokat tudunk, de gyanítjuk, hogy..."
+"neveztük, a Pokol, az pont ilyen - egy nagyobb teremtés, Uria utódai ezek a "
+"lények. Uriáról nem sokat tudunk."
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:483
