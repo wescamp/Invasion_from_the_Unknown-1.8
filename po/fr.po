@@ -1,12 +1,14 @@
 # translation of fr_0.6.71.po to
 # Zoltic <zoltic55@nours.org>, 2007.
 # translation of fr_0.6.70.po to
+# Damien J <guydelatour AT gloireetpouvoirPTcom>, 2011.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: fr_0.6.71\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-04-19 18:06+0200\n"
-"PO-Revision-Date: 2008-05-24 17:22+0100\n"
+"PO-Revision-Date: 2011-05-07 13:11+0200\n"
 "Last-Translator: Damien J <guydelatour AT gloireetpouvoirPTcom>\n"
 "Language-Team: Équipe de traduction française <wesnoth@ml.free.fr>\n"
 "Language: \n"
@@ -20,7 +22,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/_main.cfg:56
 #: Invasion_from_the_Unknown/scenarios/24_Epilogue.cfg:179
 msgid "To be continued..."
-msgstr "A suivre..."
+msgstr "À suivre..."
 
 # Damien : j'ai essayé, pour être indépendant du contexte, d'éviter les masculins / féminins et de privilégier les vouvoiements / pluriels.
 #. [message]: speaker=narrator
@@ -41,7 +43,7 @@ msgstr "Version :"
 
 #: Invasion_from_the_Unknown/_main.cfg:64
 msgid "(requires Battle for Wesnoth 1.7.7 or later, or Wesnoth 1.8.x)"
-msgstr "(Necessite Bataille pour Wesnoth 1.7.7 ou plus, ou 1.8.x)"
+msgstr "(Nécessite Bataille pour Wesnoth 1.7.7 ou plus, ou 1.8.x)"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:70
@@ -91,7 +93,7 @@ msgstr "Maréchal"
 #: Invasion_from_the_Unknown/_main.cfg:76
 #: Invasion_from_the_Unknown/_main.cfg:86
 msgid "(Easy)"
-msgstr "(facile)"
+msgstr "(Facile)"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:76
@@ -171,7 +173,7 @@ msgstr "Traductions"
 #: Invasion_from_the_Unknown/about.cfg:216
 #, fuzzy
 msgid "The WesCamp-i18n project"
-msgstr "(extrait de WesCamp-i18n)"
+msgstr "Le projet d'internationalisation WesCamp"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:220
@@ -188,7 +190,7 @@ msgstr "Projet de développement Wesnoth UMC à Sourceforge.net"
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:229
 msgid "IRC Bots"
-msgstr ""
+msgstr "Robot IRC"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:239
@@ -255,7 +257,6 @@ msgstr "Voix d'Uria"
 # Damien : j'ai essayé, pour être indépendant du contexte, d'éviter les masculins / féminins et de privilégier les vouvoiements / pluriels.
 #. [editor_group]: id=wesnoth-UMC-Invasion_from_the_Unknown
 #: Invasion_from_the_Unknown/editor-loader.cfg:26
-#, fuzzy
 msgid "Invasion from the Unknown (custom terrains)"
 msgstr "L'Obscure Invasion (terrains modifiés)"
 
@@ -270,13 +271,12 @@ msgstr ""
 "Remarques :"
 
 #: Invasion_from_the_Unknown/macros/abilities.cfg:17
-#, fuzzy
 msgid ""
 " Vegetated terrains are forest, great tree, farmland and mushroom grove "
 "hexes."
 msgstr ""
 " Les terrains végétaux sont les forêts (normales, enneigées ou tropicales), "
-"les arbres vénérables, et les forêts de champignons."
+"les arbres vénérables, les terres cultivées, et les forêts de champignons."
 
 #: Invasion_from_the_Unknown/macros/abilities.cfg:23
 msgid "dauntless"
@@ -1261,10 +1261,10 @@ msgstr ""
 "pas systématiquement tuer tous les ennemis, surtout dans les cartes avec un "
 "voile ou celles où les ennemis ressurgissent continuellement.\n"
 "\n"
-"Même si ce n'est pas indispensable, je recommande aux joueurs de lire les "
-"scénarios de <i>Descente dans les ténèbres</i> et de <i> Sous les soleils "
-"brûlants</i>, pour se familiariser avec certains personnages et évènements "
-"historiques."
+"Même si ce n'est pas indispensable, je recommande aux joueurs d'avoir jouer "
+"ou lu les scénarios de <i>Descente dans les ténèbres</i> et de <i> Sous les "
+"soleils brûlants</i>, pour se familiariser avec certains personnages et "
+"évènements historiques."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:26
@@ -2080,35 +2080,31 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:306
-#, fuzzy
 msgid " - The darkness. . . ."
-msgstr "L'obscurité..."
+msgstr " - L'obscurité..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:309
-#, fuzzy
 msgid " - The fear. . . ."
-msgstr "La peur..."
+msgstr " - La peur..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:312
-#, fuzzy
 msgid ""
 " - They feed me. . . . I grow stronger with them. . . . Galas . . . you "
 "cannot escape them . . . thus, you cannot escape Me. . . ."
 msgstr ""
-"Il m'ont nourri... je suis devenu plus fort avec eux... Galas... Tu ne peux "
-"leur échapper... et tu ne peux pas m'échapper non plus..."
+" - Ils m'ont nourri... je suis devenu plus fort avec eux... Galas... Tu ne "
+"peux leur échapper... et tu ne peux pas m'échapper non plus..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:315
-#, fuzzy
 msgid ""
 " - And your friend, the sorceress, could not either . . . she could "
 "not. . . . You will suffer her fate as well if you do not join Me. . . ."
 msgstr ""
-"Et ton amie la sorcière ne peut pas... elle ne pourrait pas... tu subiras le "
-"même sort qu'elle si tu ne me rejoins pas..."
+" - Et ton amie la sorcière ne peut pas non plus... elle ne pourrait pas... "
+"tu subiras le même sort qu'elle si tu ne me rejoins pas..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:329
@@ -3543,7 +3539,6 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:389
-#, fuzzy
 msgid ""
 "From the valley's main keep you can recruit citizens to aid you in battle. "
 "Most of them have basic training in the use of the sword and the bow; "
@@ -3552,8 +3547,8 @@ msgid ""
 msgstr ""
 "Depuis la principale forteresse de la vallée, vous pouvez recruter des "
 "villageois pour vous aider au combat. La plupart d'entre eux savent un peu "
-"manier l'épée et l'arc; mais il leur manque toujours l'expérience sue le "
-"terrain. Mais rappellez-vous : pour l'instant, ils ne vous demandent pas "
+"manier l'épée et l'arc; mais il leur manque toujours l'expérience sur le "
+"terrain. Mais rappelez-vous : pour l'instant, ils ne vous demandent pas "
 "d'entretien. "
 
 #. [message]: role=scared_one
@@ -4498,13 +4493,11 @@ msgstr "Humains"
 
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:84
-#, fuzzy
 msgid "team_name^Human barbarians"
 msgstr "Barbares Humains"
 
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:106
-#, fuzzy
 msgid "team_name^Orcish barbarians"
 msgstr "Barbares Orcs"
 
@@ -5056,7 +5049,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1340
 #, fuzzy
 msgid "Is that a trick question?"
-msgstr "C'est vrai ?"
+msgstr "Est-ce une question piège ?"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1345
@@ -11700,7 +11693,6 @@ msgstr "Cotte de maille naine"
 
 #. [object]: id=dwarven_chainmail_armor
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:419
-#, fuzzy
 msgid ""
 "This shiny and mysterious light chainmail armor, increases the unit's "
 "resistances as follows:\n"
@@ -11709,7 +11701,7 @@ msgid ""
 "Impact: +10%\n"
 "Fire: +30%"
 msgstr ""
-"La légère, brillante et mystérieuse cotte de mailles augmente les "
+"Cette légère, brillante et mystérieuse cotte de mailles augmente les "
 "résistances comme suit :\n"
 "Tranchant : + 20 %\n"
 "Perçant : + 30 %\n"
@@ -16079,8 +16071,7 @@ msgid ""
 "...until that too suddenly vanishes away. Yet, there is no noticeable "
 "difference to Elynia's appearance."
 msgstr ""
-"... et cela s'est soudainement évaporé. Mais l'apparence d'Elynia n'était "
-"pas vraiment très différente."
+"... puis soudainement s'évapore. Cependant Elynia n'a pas changé d'apparence."
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:1245
@@ -17963,9 +17954,8 @@ msgstr ""
 
 #. [unstore_unit]
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1104
-#, fuzzy
 msgid "female^weakened"
-msgstr "soignée"
+msgstr "affaiblie"
 
 #. [message]: speaker=Elyssa
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1112
@@ -18011,8 +18001,8 @@ msgid ""
 "No, wait! I...I can tell you... But only if you swear you will spare my life "
 "and let me flee. I won't trouble you anymore."
 msgstr ""
-"Non. Attendez ! Je peux vous le dire, si vous me laisser m'enfuir la vie "
-"sauve. Je ne vous importunerai plus."
+"Non. Attendez ! Je peux vous le dire... Mais seulement, si vous épargnez ma "
+"vie et que vous laissez m'enfuir. Je ne vous importunerai plus."
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1158
@@ -18042,9 +18032,8 @@ msgstr ""
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1174
-#, fuzzy
 msgid "But she..."
-msgstr "Mais..."
+msgstr "Mais elle..."
 
 #. [message]: speaker=Elyssa
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1186
@@ -18054,14 +18043,16 @@ msgstr "Ces portes..."
 
 #. [message]: speaker=Elyssa
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1199
+#, fuzzy
 msgid ""
 "The dark road there goes through the limit between our worlds, and enters "
 "the cold Inferno. If you continue across the snow following the tip of the "
 "road, you should be able to find the entrance to his lair and the lower hive."
 msgstr ""
 "La route obscure que vous voyez traverse la frontière entre nos mondes, et "
-"entre dans l'enfer de glace. Si vous continuez, que vous traversez la neige, "
-"vous devriez pouvoir trouver l'entrée"
+"entre dans l'enfer de glace. Si vous continuez à travers la neige, en "
+"poursuivant le sommet de la route, vous devriez pouvoir trouver l'entrée de "
+"sa tanière et la ruche basse."
 
 #. [message]: speaker=Elyssa
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1204
@@ -18088,9 +18079,9 @@ msgid ""
 "would be unfair, and cruel. Only this enemy is capable of acting that way. "
 "Should we become foul-minded creatures to fight the evil?"
 msgstr ""
-"Je ne me permettrai pas de tuer quiconque qui ne puisse se défendre. Ce "
-"serait injuste, et cruel. Seul cet ennemi est capable d'agir ainsi. Devrions "
-"nous renier nos principes en combattant le mal ?"
+"Je ne puis me permettre de tuer quelqu'un d'aussi faible par rapport à moi. "
+"Ce serait injuste, et cruel. Seul cet ennemi est capable d'agir ainsi. "
+"Devrions nous renier nos principes en combattant le mal ?"
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/scenarios/22C_Dark_Hive.cfg:1235
@@ -19050,7 +19041,7 @@ msgid ""
 msgstr ""
 "Personne n'aurait pu prévoir cela. Après tout, ce n'est pas un démon "
 "ordinaire. Mais nous en parlerons plus tard. Sortons de cette caverne avant "
-"que quelqu'un d'autre soit possédé par cet être !"
+"que quelqu'un d'autre ne soit possédé par cet être !"
 
 #. [scenario]: id=24_Epilogue
 #. [scenario]: id=23Cx_Finale
@@ -21267,7 +21258,7 @@ msgid ""
 "and of course in magic. Wielding powerful fire, competent with their staves, "
 "possessing a healing touch, Warlocks are the noblest of a noble people."
 msgstr ""
-"Les Aragwaiths prédisposés à la magie reçoivent un entraînement martial, ce "
+"Les aragwaiths prédisposés à la magie reçoivent un entraînement martial, ce "
 "qui est très habituel dans leur société, et apprennent à soigner et à lancer "
 "des sorts. Pouvant lancer de puissantes boules de feu, doués avec leur "
 "bâton, et capables de guérir les autres, les enchanteurs sont les plus "
@@ -21290,9 +21281,8 @@ msgstr "Magicienne"
 
 #. [unit_type]: id=Chaos Bowman, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Bowman.cfg:5
-#, fuzzy
 msgid "Chaos Bowman"
-msgstr "Arbalétrier"
+msgstr "Archer du chaos"
 
 #. [unit_type]: id=Chaos Bowman, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Bowman.cfg:25
@@ -21312,9 +21302,8 @@ msgstr ""
 
 #. [attack]: type=blade
 #: Invasion_from_the_Unknown/units/humans/Chaos_Bowman.cfg:29
-#, fuzzy
 msgid "short sword"
-msgstr "épée longue"
+msgstr "épée courte"
 
 #. [unit_type]: id=Chaos Cataphract, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Cataphract.cfg:5
@@ -21348,9 +21337,8 @@ msgstr "épée"
 #. [attack]: type=pierce
 #: Invasion_from_the_Unknown/units/humans/Chaos_Cataphract.cfg:42
 #: Invasion_from_the_Unknown/units/humans/Chaos_Cavalier.cfg:43
-#, fuzzy
 msgid "crossbow"
-msgstr "Arbalétrier"
+msgstr "arbalète"
 
 #. [unit_type]: id=Chaos Cavalier, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Cavalier.cfg:5
@@ -21396,7 +21384,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Chaos_Crossbowman_Advanced.cfg:5
 #, fuzzy
 msgid "Advanced Crossbowman"
-msgstr "Arbalétrier"
+msgstr "Arbalétrier avancé"
 
 #. [unit_type]: id=Dark Knight, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Dark_Knight.cfg:5
@@ -21573,9 +21561,8 @@ msgstr ""
 
 #. [unit_type]: id=Chaos Longbowman, race=human, description=FIXME
 #: Invasion_from_the_Unknown/units/humans/Chaos_Longbowman.cfg:5
-#, fuzzy
 msgid "Chaos Longbowman"
-msgstr "Arbalétrier"
+msgstr "Grand Archer du chaos"
 
 #. [unit_type]: id=Chaos Heavy Longbowman, race=human, description=FIXME
 #: Invasion_from_the_Unknown/units/humans/Chaos_Longbowman_Heavy.cfg:5
